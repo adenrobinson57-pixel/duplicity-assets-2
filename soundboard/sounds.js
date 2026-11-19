@@ -88,11 +88,6 @@ export const sounds =
         "mp3": "/media/sounds/spongebob-fail.mp3"
     },
     {
-        "name": "Hub Intro Sound",
-        "color": "rgb(255, 150, 30)",
-        "mp3": "/media/sounds/hub-intro-sound.mp3"
-    },
-    {
         "name": "LIZARD BUTTON",
         "color": "rgb(127, 168, 255)",
         "mp3": "/media/sounds/lizard-button.mp3"
@@ -148,11 +143,6 @@ export const sounds =
         "mp3": "/media/sounds/error_CDOxCYm.mp3"
     },
     {
-        "name": "WHAT IS THIS DIDDY BLUD DOING ON THE",
-        "color": "rgb(141, 114, 181)",
-        "mp3": "/media/sounds/what-is-this-diddy-blud-doing-on-the.mp3"
-    },
-    {
         "name": "dun dun dunnnnnnnn",
         "color": "rgb(255, 44, 44)",
         "mp3": "/media/sounds/dun-dun-dun-sound-effect-brass_8nFBccR.mp3"
@@ -178,29 +168,9 @@ export const sounds =
         "mp3": "/media/sounds/tf_nemesis.mp3"
     },
     {
-        "name": "We are charlie kirk loud asf",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/we-are-charlie-kirk-loud-asf.mp3"
-    },
-    {
-        "name": "We are Charlie Kirk phone",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/we-are-charlie-kirk-phone.mp3"
-    },
-    {
         "name": "Taco Bell Bong",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/taco-bell-bong-sfx.mp3"
-    },
-    {
-        "name": "Taco Bell Bong",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/taco-bell-bong-sfx.mp3"
-    },
-    {
-        "name": "gey echo",
-        "color": "rgb(0, 255, 4)",
-        "mp3": "/media/sounds/gey-echo.mp3"
     },
     {
         "name": "Buzzer",
@@ -373,24 +343,9 @@ export const sounds =
         "mp3": "/media/sounds/deg-deg_4M6Cojn.mp3"
     },
     {
-        "name": "Вы позвонили царю батюшке",
-        "color": "rgb(255, 133, 26)",
-        "mp3": "/media/sounds/vy-pozvonili-tsariu-batiushke.mp3"
-    },
-    {
         "name": "oh shit not good",
         "color": "rgb(0, 0, 0)",
         "mp3": "/media/sounds/wcgertcz074.mp3"
-    },
-    {
-        "name": "kim jong un is master of g00n",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/kim-jong-un-is-master-of-g00n.mp3"
-    },
-    {
-        "name": "°__°",
-        "color": "rgb(2, 1, 3)",
-        "mp3": "/media/sounds/deg-deg_4M6Cojn.mp3"
     },
     {
         "name": "the weeknd rizzz",
@@ -451,11 +406,6 @@ export const sounds =
         "name": "-999 Social Credit Siren",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/999-social-credit-siren.mp3"
-    },
-    {
-        "name": "BIG N WORD",
-        "color": "rgb(63, 53, 37)",
-        "mp3": "/media/sounds/big-n-word_C7DFtdX.mp3"
     },
     {
         "name": "Meme",
@@ -533,16 +483,6 @@ export const sounds =
         "mp3": "/media/sounds/crack_the_whip.mp3"
     },
     {
-        "name": "We are Charlie Kirk (song)",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/we-are-charlie-kirk-song.mp3"
-    },
-    {
-        "name": "Diddy done",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/diddy-done.mp3"
-    },
-    {
         "name": "Anderdingus",
         "color": "rgb(54, 150, 30)",
         "mp3": "/media/sounds/anderdingus.mp3"
@@ -553,11 +493,6 @@ export const sounds =
         "mp3": "/media/sounds/tindeck_1.mp3"
     },
     {
-        "name": "We are Charlie Kirk (song)",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/we-are-charlie-kirk-song.mp3"
-    },
-    {
         "name": "'What' Bottom Text Meme (Sanctuary Guardian) - S",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/what-bottom-text-meme-sanctuary-guardian-sound-effect-hd.mp3"
@@ -566,11 +501,6 @@ export const sounds =
         "name": "MI BOMBO",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/mi-bombo.mp3"
-    },
-    {
-        "name": "Metal Gear Solid Alert",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/tindeck_1.mp3"
     },
     {
         "name": "italian brainrot ringtone",
@@ -588,19 +518,9 @@ export const sounds =
         "mp3": "/media/sounds/faaaa.mp3"
     },
     {
-        "name": "Epstein kidnapped me when I was 11",
-        "color": "rgb(0, 242, 255)",
-        "mp3": "/media/sounds/epstein-kidnapped-me-when-i-was-11_zl0hWU0.mp3"
-    },
-    {
         "name": "Meme final",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/meme-de-creditos-finales.mp3"
-    },
-    {
-        "name": "A NEW HAND TOUCHES THE BEACON",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/ur-dur.mp3"
     },
     {
         "name": "Aww",
@@ -733,39 +653,9 @@ export const sounds =
         "mp3": "/media/sounds/mac-quack.mp3"
     },
     {
-        "name": "Shut your mouth SYFM",
-        "color": "rgb(116, 101, 255)",
-        "mp3": "/media/sounds/shut-your-mouth-syfm.mp3"
-    },
-    {
         "name": "Звук литвина",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/zvuk-litvina.mp3"
-    },
-    {
-        "name": "Lobotomy Sound Effect",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/lobotomy-sound-effect.mp3"
-    },
-    {
-        "name": "Awkward cricket",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/awkward-cricket-sound-effect.mp3"
-    },
-    {
-        "name": "asian meme huh?",
-        "color": "rgb(186, 255, 255)",
-        "mp3": "/media/sounds/huh_37bAoRo.mp3"
-    },
-    {
-        "name": "Mac Quack",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mac-quack.mp3"
-    },
-    {
-        "name": "You are an idiot!",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/you-are-an-idiot.mp3"
     },
     {
         "name": "Explosion meme",
@@ -823,11 +713,6 @@ export const sounds =
         "mp3": "/media/sounds/ia-nikogo-ne-ubival.mp3"
     },
     {
-        "name": "Пошел ты н пид",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/poshel-ty-n-pid.mp3"
-    },
-    {
         "name": "Oh Brother, This Guy Stinks!",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/oh-brother-this-guy-stinks.mp3"
@@ -836,11 +721,6 @@ export const sounds =
         "name": "СКАЧАЙ МАКС",
         "color": "rgb(62, 30, 255)",
         "mp3": "/media/sounds/skachai-maks.mp3"
-    },
-    {
-        "name": "We are Charlie Kirk",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/we-are-charlie-kirk.mp3"
     },
     {
         "name": "fahhh pump sound",
@@ -861,11 +741,6 @@ export const sounds =
         "name": "Low honor RDR 2",
         "color": "rgb(128, 0, 0)",
         "mp3": "/media/sounds/low-honor-rdr-2.mp3"
-    },
-    {
-        "name": "Sybau",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sybau.mp3"
     },
     {
         "name": "FNAF Jumpscare Scream",
@@ -913,26 +788,6 @@ export const sounds =
         "mp3": "/media/sounds/where-are-you-goingg.mp3"
     },
     {
-        "name": "пердеж",
-        "color": "rgb(0, 255, 72)",
-        "mp3": "/media/sounds/perdezh_YQ5l54B.mp3"
-    },
-    {
-        "name": "fahhh pump sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/fahhh-pump-sound.mp3"
-    },
-    {
-        "name": "Fears to Fathom Notification Sound",
-        "color": "rgb(10, 59, 51)",
-        "mp3": "/media/sounds/fears-to-fathom-notification-sound.mp3"
-    },
-    {
-        "name": "Another One DJ Khaled",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/another-one_dPvHt2Z.mp3"
-    },
-    {
         "name": "FBI OPEN UP (with explosion)",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/fbi-open-up_dwLhIFf.mp3"
@@ -958,24 +813,9 @@ export const sounds =
         "mp3": "/media/sounds/call-me-a-good-boy.mp3"
     },
     {
-        "name": "СКАЧАЙ МАКС",
-        "color": "rgb(62, 30, 255)",
-        "mp3": "/media/sounds/skachai-maks.mp3"
-    },
-    {
-        "name": "Звук удара по металу",
-        "color": "rgb(26, 255, 0)",
-        "mp3": "/media/sounds/zvuk-udara-po-metalu.mp3"
-    },
-    {
         "name": "City Boy",
         "color": "rgb(23, 15, 255)",
         "mp3": "/media/sounds/city-boy.mp3"
-    },
-    {
-        "name": "Пошел ты н пид",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/poshel-ty-n-pid.mp3"
     },
     {
         "name": "Extremely loud incorrect buzzer",
@@ -986,16 +826,6 @@ export const sounds =
         "name": "Money SoundFX",
         "color": "rgb(255, 253, 0)",
         "mp3": "/media/sounds/money-soundfx.mp3"
-    },
-    {
-        "name": "he he he ha clash royale (DEEP FRIED)",
-        "color": "rgb(88, 85, 255)",
-        "mp3": "/media/sounds/he-he-he-ha-clash-royale-deep-fried.mp3"
-    },
-    {
-        "name": "я никого не убивал",
-        "color": "rgb(74, 27, 4)",
-        "mp3": "/media/sounds/ia-nikogo-ne-ubival.mp3"
     },
     {
         "name": "Lagging/loading",
@@ -1093,49 +923,14 @@ export const sounds =
         "mp3": "/media/sounds/michael-dont-leave-me-here.mp3"
     },
     {
-        "name": "AUUGHHH",
-        "color": "rgb(0, 33, 255)",
-        "mp3": "/media/sounds/auughhh.mp3"
-    },
-    {
-        "name": "Lizard",
-        "color": "rgb(11, 192, 53)",
-        "mp3": "/media/sounds/lizard.mp3"
-    },
-    {
         "name": "Дядя Саша",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/diadia-sasha_K0Xb9eR.mp3"
     },
     {
-        "name": "BASS BOOST discord call",
-        "color": "rgb(93, 0, 255)",
-        "mp3": "/media/sounds/bass-boost-discord-call.mp3"
-    },
-    {
-        "name": "City Boy",
-        "color": "rgb(23, 15, 255)",
-        "mp3": "/media/sounds/city-boy.mp3"
-    },
-    {
-        "name": "Money SoundFX",
-        "color": "rgb(255, 253, 0)",
-        "mp3": "/media/sounds/money-soundfx.mp3"
-    },
-    {
-        "name": "we do not care",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mike-tomlin-we-do-not-care-trim.mp3"
-    },
-    {
         "name": "Awkward Moment",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/awkward-moment.mp3"
-    },
-    {
-        "name": "spongebob boowomp",
-        "color": "rgb(255, 249, 26)",
-        "mp3": "/media/sounds/spongebob-boowomp.mp3"
     },
     {
         "name": "bonk doge",
@@ -1151,11 +946,6 @@ export const sounds =
         "name": "The Rock Shut Up",
         "color": "rgb(0, 255, 94)",
         "mp3": "/media/sounds/the-rock-shut-up.mp3"
-    },
-    {
-        "name": "Keyboard Typing Sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/keyboard-typing-sound-effect.mp3"
     },
     {
         "name": "Доброе утро моя девочка",
@@ -1181,11 +971,6 @@ export const sounds =
         "name": "moving stone",
         "color": "rgb(65, 77, 76)",
         "mp3": "/media/sounds/moving-stone.mp3"
-    },
-    {
-        "name": "ACTUALLY GOOD FAHHHH sfx",
-        "color": "rgb(255, 0, 247)",
-        "mp3": "/media/sounds/actually-good-fahhhh-sfx.mp3"
     },
     {
         "name": "Low Cortisol song",
@@ -1258,11 +1043,6 @@ export const sounds =
         "mp3": "/media/sounds/efn1.mp3"
     },
     {
-        "name": "Hello there- obi Wan",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/obi-wan-hello-there.mp3"
-    },
-    {
         "name": "Man screaming aaaah",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/man-screaming-aaaah.mp3"
@@ -1273,34 +1053,9 @@ export const sounds =
         "mp3": "/media/sounds/stupid-f__king-bird.mp3"
     },
     {
-        "name": "Fuuuuh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/fuuuuh.mp3"
-    },
-    {
-        "name": "1738 song",
-        "color": "rgb(223, 255, 219)",
-        "mp3": "/media/sounds/1738-song.mp3"
-    },
-    {
-        "name": "moving stone",
-        "color": "rgb(65, 77, 76)",
-        "mp3": "/media/sounds/moving-stone.mp3"
-    },
-    {
-        "name": "EFN1",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/efn1.mp3"
-    },
-    {
         "name": "67 brain fart",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/67-brain-fart.mp3"
-    },
-    {
-        "name": "nelly ahh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/ahh_gLSTOu4.mp3"
     },
     {
         "name": "Тёмная ночь",
@@ -1323,11 +1078,6 @@ export const sounds =
         "mp3": "/media/sounds/sudden-suspense-sound-effect.mp3"
     },
     {
-        "name": "Service Bell (2)",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/stupid-f__king-bird.mp3"
-    },
-    {
         "name": "DJ Airhorn",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/dj-airhorn-sound-effect-kingbeatz_1.mp3"
@@ -1336,16 +1086,6 @@ export const sounds =
         "name": "Rahhh",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/rahhh.mp3"
-    },
-    {
-        "name": "I'm Gonna Come Trump",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/im-gonna-come_6HehWm4.mp3"
-    },
-    {
-        "name": "Le fart de Simon",
-        "color": "rgb(75, 255, 0)",
-        "mp3": "/media/sounds/le-fart-de-simon.mp3"
     },
     {
         "name": "We do not care (TikTok Sound)",
@@ -1478,16 +1218,6 @@ export const sounds =
         "mp3": "/media/sounds/homero-gimiendo.mp3"
     },
     {
-        "name": "You Need to Leave!",
-        "color": "rgb(111, 59, 255)",
-        "mp3": "/media/sounds/you-need-to-leave_wDmQeme.mp3"
-    },
-    {
-        "name": "Пицца 4 сына",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/pitstsa-4-syna.mp3"
-    },
-    {
         "name": "Clapping",
         "color": "rgb(255, 0, 51)",
         "mp3": "/media/sounds/aplausos_2.mp3"
@@ -1498,11 +1228,6 @@ export const sounds =
         "mp3": "/media/sounds/no-no-wait-wait.mp3"
     },
     {
-        "name": "English or Spanish Song",
-        "color": "rgb(144, 212, 255)",
-        "mp3": "/media/sounds/english-or-spanish-song.mp3"
-    },
-    {
         "name": "Flashbang + Gah dayum",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/flashbang-gah-dayum.mp3"
@@ -1511,11 +1236,6 @@ export const sounds =
         "name": "lizzard-1",
         "color": "rgb(28, 255, 28)",
         "mp3": "/media/sounds/lizzard-1.mp3"
-    },
-    {
-        "name": "Данил Колбасенко",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/danil-kolbasenko.mp3"
     },
     {
         "name": "NFL Bass Boosted",
@@ -1538,29 +1258,14 @@ export const sounds =
         "mp3": "/media/sounds/goofy-slip.mp3"
     },
     {
-        "name": "CSGO AWP",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/awp_02.mp3"
-    },
-    {
         "name": "fahh but louder",
         "color": "rgb(0, 255, 98)",
         "mp3": "/media/sounds/fahh-but-louder.mp3"
     },
     {
-        "name": "Час радости днс",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/chas-radosti-dns.mp3"
-    },
-    {
         "name": "flashbang cs",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/flashbang-cs_qoRhxLn.mp3"
-    },
-    {
-        "name": "Село Молочное",
-        "color": "rgb(90, 255, 180)",
-        "mp3": "/media/sounds/selo-molochnoe_STEyRIn.mp3"
     },
     {
         "name": "punch sound effect meme",
@@ -1581,11 +1286,6 @@ export const sounds =
         "name": "vine boom bass boost sound effect",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/vine-boom-bass-boost-sound-effect.mp3"
-    },
-    {
-        "name": "Результаты по запросу роблокс",
-        "color": "rgb(242, 129, 255)",
-        "mp3": "/media/sounds/rezultaty-po-zaprosu-robloks.mp3"
     },
     {
         "name": "oh no no no laugh",
@@ -1643,11 +1343,6 @@ export const sounds =
         "mp3": "/media/sounds/mi-bombo-duolingo.mp3"
     },
     {
-        "name": "Flashbang + Gah dayum",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/flashbang-gah-dayum.mp3"
-    },
-    {
         "name": "Adele- This is the end",
         "color": "rgb(0, 255, 0)",
         "mp3": "/media/sounds/ad.mp3"
@@ -1663,24 +1358,9 @@ export const sounds =
         "mp3": "/media/sounds/spongebob-sad-song.mp3"
     },
     {
-        "name": "app",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/aplausos_3.mp3"
-    },
-    {
         "name": "Slap *oh*",
         "color": "rgb(114, 88, 255)",
         "mp3": "/media/sounds/slap-oh_LGvkhyt.mp3"
-    },
-    {
-        "name": "Clapping",
-        "color": "rgb(255, 0, 51)",
-        "mp3": "/media/sounds/aplausos_2.mp3"
-    },
-    {
-        "name": "goofy slip",
-        "color": "rgb(255, 100, 12)",
-        "mp3": "/media/sounds/goofy-slip.mp3"
     },
     {
         "name": "Sponge Bob Disgusting",
@@ -1718,29 +1398,9 @@ export const sounds =
         "mp3": "/media/sounds/weave.mp3"
     },
     {
-        "name": "Fnaf 1 music box",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/fnaf-1-music-box.mp3"
-    },
-    {
-        "name": "omg bruh oh hell nah",
-        "color": "rgb(164, 0, 255)",
-        "mp3": "/media/sounds/omg-bruh-oh-hell-nah.mp3"
-    },
-    {
         "name": "Metal Pipe Falling Sound Effect",
         "color": "rgb(87, 69, 96)",
         "mp3": "/media/sounds/metal-pipe-falling-sound-effect.mp3"
-    },
-    {
-        "name": "IA IA AHH YEYE YEYE - lovely sad",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/ia-ia-ahh-yeye-yeye-lovely-sad.mp3"
-    },
-    {
-        "name": "Система поиска пи###са",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sistema-poiska-pi-sa.mp3"
     },
     {
         "name": "GET OVER HERE Scorpion",
@@ -1751,11 +1411,6 @@ export const sounds =
         "name": "roblox horror",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/do-not-open.mp3"
-    },
-    {
-        "name": "punch sound effect meme",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/punch-sound-effect-meme.mp3"
     },
     {
         "name": "Имбо отрыжка",
@@ -1788,19 +1443,9 @@ export const sounds =
         "mp3": "/media/sounds/hold-up-tiktok.mp3"
     },
     {
-        "name": "Happy happy happy song",
-        "color": "rgb(0, 255, 0)",
-        "mp3": "/media/sounds/happy-happy-happy-song.mp3"
-    },
-    {
         "name": "Трактор въехал в днс",
         "color": "rgb(8, 159, 255)",
         "mp3": "/media/sounds/traktor-vekhal-v-dns.mp3"
-    },
-    {
-        "name": "vine boom bass boost sound effect",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/vine-boom-bass-boost-sound-effect.mp3"
     },
     {
         "name": "wut",
@@ -1813,49 +1458,9 @@ export const sounds =
         "mp3": "/media/sounds/kids_cheering.mp3"
     },
     {
-        "name": "omg bruh oh hell nah",
-        "color": "rgb(164, 0, 255)",
-        "mp3": "/media/sounds/omg-bruh-oh-hell-nah.mp3"
-    },
-    {
-        "name": "Metal Pipe Falling Sound Effect",
-        "color": "rgb(87, 69, 96)",
-        "mp3": "/media/sounds/metal-pipe-falling-sound-effect.mp3"
-    },
-    {
-        "name": "Имбо отрыжка",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/imbo-otryzhka.mp3"
-    },
-    {
-        "name": "Система поиска пи###са",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sistema-poiska-pi-sa.mp3"
-    },
-    {
-        "name": "discord troll",
-        "color": "rgb(0, 255, 17)",
-        "mp3": "/media/sounds/mikejebait-3.mp3"
-    },
-    {
-        "name": "Kids Cheering",
-        "color": "rgb(0, 204, 0)",
-        "mp3": "/media/sounds/kids_cheering.mp3"
-    },
-    {
-        "name": "GET OVER HERE Scorpion",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/scorpion-get_over_here.mp3"
-    },
-    {
         "name": "Pan Hit",
         "color": "rgb(51, 51, 204)",
         "mp3": "/media/sounds/hitsound_2.mp3"
-    },
-    {
-        "name": "LO SIENTO WILSON",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/lo-siento-wilson.mp3"
     },
     {
         "name": "Wilhelm Scream",
@@ -1878,34 +1483,14 @@ export const sounds =
         "mp3": "/media/sounds/panjabi-mc-mundian-tu-bach-ke-0s-16s-kfmq4pgaove_tjS6M4I.mp3"
     },
     {
-        "name": "wut",
-        "color": "rgb(255, 255, 0)",
-        "mp3": "/media/sounds/record-scratch-2.mp3"
-    },
-    {
-        "name": "punch sound effect meme",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/punch-sound-effect-meme.mp3"
-    },
-    {
         "name": "Meow 1",
         "color": "rgb(202, 155, 0)",
         "mp3": "/media/sounds/meow-1.mp3"
     },
     {
-        "name": "hold up tiktok",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/hold-up-tiktok.mp3"
-    },
-    {
         "name": "Ankle breaker",
         "color": "rgb(255, 136, 0)",
         "mp3": "/media/sounds/ankle-breaker_j3Df0TU.mp3"
-    },
-    {
-        "name": "Charlie kirky funk",
-        "color": "rgb(0, 85, 255)",
-        "mp3": "/media/sounds/charlie-kirky-funk.mp3"
     },
     {
         "name": "nya cat girl sound",
@@ -1946,11 +1531,6 @@ export const sounds =
         "name": "She gonna call me baby boo",
         "color": "rgb(172, 255, 163)",
         "mp3": "/media/sounds/she-gonna-call-me-baby-boo.mp3"
-    },
-    {
-        "name": "cooked dog meme",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/cooked-dog-meme.mp3"
     },
     {
         "name": "you've got mail",
@@ -2008,24 +1588,9 @@ export const sounds =
         "mp3": "/media/sounds/oiia-oiia-sound.mp3"
     },
     {
-        "name": "Metal Pipe Falling Sound Effect",
-        "color": "rgb(87, 69, 96)",
-        "mp3": "/media/sounds/metal-pipe-falling-sound-effect.mp3"
-    },
-    {
         "name": "2017 youtube background music LOW QUALITY",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/2017-youtube-background-music-low-quality.mp3"
-    },
-    {
-        "name": "DAMN!!!",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/friday-damn.mp3"
-    },
-    {
-        "name": "GET OVER HERE Scorpion",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/scorpion-get_over_here.mp3"
     },
     {
         "name": "FAHHHH 2",
@@ -2058,39 +1623,14 @@ export const sounds =
         "mp3": "/media/sounds/67-normal.mp3"
     },
     {
-        "name": "discord troll",
-        "color": "rgb(0, 255, 17)",
-        "mp3": "/media/sounds/mikejebait-3.mp3"
-    },
-    {
         "name": "correct (ding)",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/ding-sound-effect_1.mp3"
     },
     {
-        "name": "Talking ben saying ben",
-        "color": "rgb(255, 231, 133)",
-        "mp3": "/media/sounds/talking-ben-saying-ben.mp3"
-    },
-    {
-        "name": "bass drop sound effect",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/bass-drop-edit_mixdown.mp3"
-    },
-    {
-        "name": "Deltarune Explosion",
-        "color": "rgb(52, 106, 255)",
-        "mp3": "/media/sounds/deltarune-explosion.mp3"
-    },
-    {
         "name": "Flapjack Scream",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/flap-jack-scream.mp3"
-    },
-    {
-        "name": "Система поиска пи###са",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sistema-poiska-pi-sa.mp3"
     },
     {
         "name": "Noooo!",
@@ -2153,11 +1693,6 @@ export const sounds =
         "mp3": "/media/sounds/rahh-skeletons.mp3"
     },
     {
-        "name": "take a look around you",
-        "color": "rgb(60, 70, 255)",
-        "mp3": "/media/sounds/take-a-look-around-you.mp3"
-    },
-    {
         "name": "CINEMATIC SUSPENSE RISER",
         "color": "rgb(132, 66, 255)",
         "mp3": "/media/sounds/cinematic-suspense-riser.mp3"
@@ -2166,11 +1701,6 @@ export const sounds =
         "name": "Doge bonk",
         "color": "rgb(67, 179, 180)",
         "mp3": "/media/sounds/bonk_BEtiM8g.mp3"
-    },
-    {
-        "name": "oh my god, wow!",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/omgwow.mp3"
     },
     {
         "name": "baby boo ice cream",
@@ -2213,19 +1743,9 @@ export const sounds =
         "mp3": "/media/sounds/discord_leave_sound_effect_download.mp3"
     },
     {
-        "name": "f1 Radio",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/f1-radio_QLwLncI.mp3"
-    },
-    {
         "name": "RDR2 low honour sound",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/rdr2-low-honour-sound.mp3"
-    },
-    {
-        "name": "SYFM LOUD",
-        "color": "rgb(255, 223, 223)",
-        "mp3": "/media/sounds/syfm-loud_xRTiPcw.mp3"
     },
     {
         "name": "Fart Sound Effect (From 21st Century Memes)",
@@ -2236,16 +1756,6 @@ export const sounds =
         "name": "Prowler",
         "color": "rgb(118, 49, 154)",
         "mp3": "/media/sounds/prowler.mp3"
-    },
-    {
-        "name": "I'm over here strokin my d",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/im-over-here-strokin-my-d.mp3"
-    },
-    {
-        "name": "Indian under the water",
-        "color": "rgb(107, 169, 220)",
-        "mp3": "/media/sounds/y2mate_HOnnyD0.mp3"
     },
     {
         "name": "Car Crash SFX",
@@ -2281,11 +1791,6 @@ export const sounds =
         "name": "BOING . MP3",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/boing_lmke36X.mp3"
-    },
-    {
-        "name": "Something In My Ass!",
-        "color": "rgb(17, 38, 55)",
-        "mp3": "/media/sounds/something-in-my-ass_gCDhPgd.mp3"
     },
     {
         "name": "auraa",
@@ -2353,24 +1858,9 @@ export const sounds =
         "mp3": "/media/sounds/weird-route-jingle.mp3"
     },
     {
-        "name": "helicopter helicopter parakofer parakofer",
-        "color": "rgb(0, 255, 84)",
-        "mp3": "/media/sounds/helicopter-helicopter-parakofer-parakofer.mp3"
-    },
-    {
         "name": "sonic rings falling",
         "color": "rgb(0, 51, 255)",
         "mp3": "/media/sounds/sonic-rings-drop.mp3"
-    },
-    {
-        "name": "Eww brother eww",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/eww-brother-eww.mp3"
-    },
-    {
-        "name": "angry roblox",
-        "color": "rgb(129, 26, 26)",
-        "mp3": "/media/sounds/angry-roblox.mp3"
     },
     {
         "name": "Cinematic Boom",
@@ -2381,11 +1871,6 @@ export const sounds =
         "name": "samsung spaceline notification",
         "color": "rgb(17, 0, 255)",
         "mp3": "/media/sounds/samsung-spaceline-notification.mp3"
-    },
-    {
-        "name": "Rahh Skeletons",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/rahh-skeletons.mp3"
     },
     {
         "name": "Арматура",
@@ -2543,11 +2028,6 @@ export const sounds =
         "mp3": "/media/sounds/hitmarker_2.mp3"
     },
     {
-        "name": "Swoosh Sound Effects",
-        "color": "rgb(64, 51, 255)",
-        "mp3": "/media/sounds/swoosh-sound-effects.mp3"
-    },
-    {
         "name": "jet set radio spray 1",
         "color": "rgb(246, 255, 0)",
         "mp3": "/media/sounds/jet-set-radio-spray-1_4CFwPkb.mp3"
@@ -2561,11 +2041,6 @@ export const sounds =
         "name": "Gojo domain expansion",
         "color": "rgb(217, 202, 255)",
         "mp3": "/media/sounds/rpreplay_final1623689697_mov.mp3"
-    },
-    {
-        "name": "67 normal",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/67-normal.mp3"
     },
     {
         "name": "Train horn meme",
@@ -2591,11 +2066,6 @@ export const sounds =
         "name": "quack.mp3",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/quack_5.mp3"
-    },
-    {
-        "name": "Anime punch",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/strongpunch.mp3"
     },
     {
         "name": "Fart Effect",
@@ -2718,24 +2188,9 @@ export const sounds =
         "mp3": "/media/sounds/say-wallahi-ishowspeed.mp3"
     },
     {
-        "name": "FBI open UP",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/fbi-open-up-sfx.mp3"
-    },
-    {
         "name": "FIRE IN THE HOLE Geometry Dash",
         "color": "rgb(18, 255, 0)",
         "mp3": "/media/sounds/fire-in-the-hole-geometry-dash.mp3"
-    },
-    {
-        "name": "Crowd Boo",
-        "color": "rgb(204, 0, 204)",
-        "mp3": "/media/sounds/crowd-boo.mp3"
-    },
-    {
-        "name": "jet set radio spray full",
-        "color": "rgb(255, 255, 0)",
-        "mp3": "/media/sounds/jet-set-radio-spray-full_DP2X9GC.mp3"
     },
     {
         "name": "Got a Item BOTW",
@@ -2743,19 +2198,9 @@ export const sounds =
         "mp3": "/media/sounds/zelda_-botw-item-get-sound-effect_360p-online-audio-converter.mp3"
     },
     {
-        "name": "AIIII AIII AIIII",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/aiiii-aiii-aiiii.mp3"
-    },
-    {
         "name": "Ladle meoww ghop ghop ghop",
         "color": "rgb(255, 255, 255)",
         "mp3": "/media/sounds/ladle-meoww-ghop-ghop-ghop.mp3"
-    },
-    {
-        "name": "Kim jung goon",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/kim-jung-goon.mp3"
     },
     {
         "name": "Minecraft XP Sound",
@@ -2763,34 +2208,9 @@ export const sounds =
         "mp3": "/media/sounds/orb.mp3"
     },
     {
-        "name": "pop",
-        "color": "rgb(102, 51, 204)",
-        "mp3": "/media/sounds/comedy_pop_finger_in_mouth_001.mp3"
-    },
-    {
-        "name": "Whoosh Wind",
-        "color": "rgb(104, 124, 255)",
-        "mp3": "/media/sounds/whoosh-wind.mp3"
-    },
-    {
-        "name": "jet set radio spray 1",
-        "color": "rgb(246, 255, 0)",
-        "mp3": "/media/sounds/jet-set-radio-spray-1_4CFwPkb.mp3"
-    },
-    {
-        "name": "Give it to him Boom Shakalaka",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/give-it-to-him-boom.mp3"
-    },
-    {
         "name": "NO GOD! PLEASE NO!!! NOOOOOOOO",
         "color": "rgb(0, 0, 153)",
         "mp3": "/media/sounds/no-god-please-no-noooooooooo.mp3"
-    },
-    {
-        "name": "quack.mp3",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/quack_5.mp3"
     },
     {
         "name": "FNAF 2 Hallway Ambience",
@@ -2803,19 +2223,9 @@ export const sounds =
         "mp3": "/media/sounds/cartoon-running-sound-effect-online-audio-converter.mp3"
     },
     {
-        "name": "Wrong lie incorrect buzzer",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/wrong-lie-incorrect-buzzer.mp3"
-    },
-    {
         "name": "Defy Gravity x God Is Kanye",
         "color": "rgb(0, 222, 7)",
         "mp3": "/media/sounds/defy-gravity-x-god-is-kanye.mp3"
-    },
-    {
-        "name": "Snapchat message",
-        "color": "rgb(255, 242, 1)",
-        "mp3": "/media/sounds/snapchat-message.mp3"
     },
     {
         "name": "Roblox Hi Sound",
@@ -2843,11 +2253,6 @@ export const sounds =
         "mp3": "/media/sounds/naruto-sad-music-instant.mp3"
     },
     {
-        "name": "discord kitten",
-        "color": "rgb(255, 66, 206)",
-        "mp3": "/media/sounds/discord-kitten.mp3"
-    },
-    {
         "name": "roblox bye",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/roblox-bye.mp3"
@@ -2856,11 +2261,6 @@ export const sounds =
         "name": "FEIN FEIN FEIN FEIN",
         "color": "rgb(255, 154, 220)",
         "mp3": "/media/sounds/fein-fein-fein-fein.mp3"
-    },
-    {
-        "name": "Mogged",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mogged.mp3"
     },
     {
         "name": "Eagle Screech",
@@ -2873,24 +2273,9 @@ export const sounds =
         "mp3": "/media/sounds/thunder-sound-effect.mp3"
     },
     {
-        "name": "yes king teach me",
-        "color": "rgb(251, 255, 52)",
-        "mp3": "/media/sounds/yes-king-teach-me.mp3"
-    },
-    {
         "name": "Понос.mp3",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/ponos-mp3.mp3"
-    },
-    {
-        "name": "Crazy Realistic Knocking Sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/crazy-realistic-knocking-sound-troll-twitch-streamers_small_mYNcUdA.mp3"
-    },
-    {
-        "name": "Why are you running?",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/why-are.mp3"
     },
     {
         "name": "SHUT UP MOM SILENCE FROM YOU",
@@ -2901,26 +2286,6 @@ export const sounds =
         "name": "The Nut Button",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/nut_ZKo5FA9.mp3"
-    },
-    {
-        "name": "NO GOD! PLEASE NO!!! NOOOOOOOO",
-        "color": "rgb(0, 0, 153)",
-        "mp3": "/media/sounds/no-god-please-no-noooooooooo.mp3"
-    },
-    {
-        "name": "Crazy Realistic Knocking Sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/crazy-realistic-knocking-sound-troll-twitch-streamers_small_mYNcUdA.mp3"
-    },
-    {
-        "name": "Eagle Screech",
-        "color": "rgb(43, 119, 50)",
-        "mp3": "/media/sounds/eagle-screech.mp3"
-    },
-    {
-        "name": "Minecraft XP Sound",
-        "color": "rgb(0, 255, 0)",
-        "mp3": "/media/sounds/orb.mp3"
     },
     {
         "name": "TU TU TU DU MAX VERSTAPPEN",
@@ -2958,16 +2323,6 @@ export const sounds =
         "mp3": "/media/sounds/pepe-shnele-fa-folk-version.mp3"
     },
     {
-        "name": "Say wallahi - ishowspeed",
-        "color": "rgb(255, 37, 230)",
-        "mp3": "/media/sounds/say-wallahi-ishowspeed.mp3"
-    },
-    {
-        "name": "FIRE IN THE HOLE Geometry Dash",
-        "color": "rgb(18, 255, 0)",
-        "mp3": "/media/sounds/fire-in-the-hole-geometry-dash.mp3"
-    },
-    {
         "name": "discord cat scream",
         "color": "rgb(0, 255, 0)",
         "mp3": "/media/sounds/discord-cat-scream.mp3"
@@ -2998,11 +2353,6 @@ export const sounds =
         "mp3": "/media/sounds/lightsaber_02.mp3"
     },
     {
-        "name": "Thank You For Your Patronage",
-        "color": "rgb(255, 217, 63)",
-        "mp3": "/media/sounds/thank-you-for-your-patronage.mp3"
-    },
-    {
         "name": "Door Knocking (Very Realistic)",
         "color": "rgb(49, 85, 6)",
         "mp3": "/media/sounds/door-knocking-very-realistic.mp3"
@@ -3018,11 +2368,6 @@ export const sounds =
         "mp3": "/media/sounds/domer_e4UYbjR.mp3"
     },
     {
-        "name": "СЛЫШ 1",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/slysh-1.mp3"
-    },
-    {
         "name": "hehe boi ainsley harriott",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/ainsley_harriott_and_his_spicy_meatconverttoaudio.mp3"
@@ -3033,11 +2378,6 @@ export const sounds =
         "mp3": "/media/sounds/spongebob-2000-years-later-2019-download-link.mp3"
     },
     {
-        "name": "Dial Up Sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/dial_up.mp3"
-    },
-    {
         "name": "Patrick Star Screaming",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/patrick_GojJ8l0.mp3"
@@ -3046,11 +2386,6 @@ export const sounds =
         "name": "mr beast give me sum money",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/mr-beast-give-me-sum-money.mp3"
-    },
-    {
-        "name": "Charlie Charlie Kirky",
-        "color": "rgb(56, 199, 255)",
-        "mp3": "/media/sounds/charlie-charlie-kirky.mp3"
     },
     {
         "name": "Minecraft firework",
@@ -3073,24 +2408,9 @@ export const sounds =
         "mp3": "/media/sounds/cartel-song.mp3"
     },
     {
-        "name": "Я пи я дор",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/ia-pi-ia-dor.mp3"
-    },
-    {
         "name": "Gman toilet 3.0",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/gman-toilet-3-0.mp3"
-    },
-    {
-        "name": "Knuckles-Oh No",
-        "color": "rgb(204, 51, 0)",
-        "mp3": "/media/sounds/oh_no_1.mp3"
-    },
-    {
-        "name": "FIRE IN THE HOLE Geometry Dash",
-        "color": "rgb(18, 255, 0)",
-        "mp3": "/media/sounds/fire-in-the-hole-geometry-dash.mp3"
     },
     {
         "name": "ishowspeed STFU",
@@ -3103,29 +2423,14 @@ export const sounds =
         "mp3": "/media/sounds/iphone-screenshot.mp3"
     },
     {
-        "name": "ДИМОН",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/pro-metei-dimon-www.mp3"
-    },
-    {
         "name": "yoooooooooooo",
         "color": "rgb(26, 30, 255)",
         "mp3": "/media/sounds/yooooooooooooooooooooooooo_4_objp8XX.mp3"
     },
     {
-        "name": "SHUT UP MOM SILENCE FROM YOU",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/shut-up-mom-silence-from-you.mp3"
-    },
-    {
         "name": "Among us",
         "color": "rgb(138, 255, 29)",
         "mp3": "/media/sounds/among.mp3"
-    },
-    {
-        "name": "FEIN FEIN FEIN FEIN",
-        "color": "rgb(255, 154, 220)",
-        "mp3": "/media/sounds/fein-fein-fein-fein.mp3"
     },
     {
         "name": "McDonalds Beeping Sound",
@@ -3141,11 +2446,6 @@ export const sounds =
         "name": "Kaching Sound FX",
         "color": "rgb(255, 245, 49)",
         "mp3": "/media/sounds/kaching-sound-fx.mp3"
-    },
-    {
-        "name": "Арматура",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/armatura_P29FH2w.mp3"
     },
     {
         "name": "Horse Sound",
@@ -3198,16 +2498,6 @@ export const sounds =
         "mp3": "/media/sounds/oh-brother-this-guy-stinks_FFdigtm.mp3"
     },
     {
-        "name": "TU TU TU DU MAX VERSTAPPEN",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/tu-tu-tu-du-max-verstappen.mp3"
-    },
-    {
-        "name": "Fnaf meme Har Har",
-        "color": "rgb(90, 62, 39)",
-        "mp3": "/media/sounds/fnaf-meme-har-har.mp3"
-    },
-    {
         "name": "thank you thank you thank you",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/thank-you-thank-you-thank-you.mp3"
@@ -3223,19 +2513,9 @@ export const sounds =
         "mp3": "/media/sounds/pora-vstavat-khoziain-anime-devochka.mp3"
     },
     {
-        "name": "СЛЫШ 1",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/slysh-1.mp3"
-    },
-    {
         "name": "voce nao tem aura",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/voce-nao-tem-aura.mp3"
-    },
-    {
-        "name": "We are jeffrey epstein",
-        "color": "rgb(132, 0, 0)",
-        "mp3": "/media/sounds/we-are-jeffrey-epstein_01TxqQ0.mp3"
     },
     {
         "name": "F*ck This Sh*t I'm Out!",
@@ -3248,34 +2528,14 @@ export const sounds =
         "mp3": "/media/sounds/clown-horn-sound-effect_1.mp3"
     },
     {
-        "name": "Thank You For Your Patronage",
-        "color": "rgb(255, 217, 63)",
-        "mp3": "/media/sounds/thank-you-for-your-patronage.mp3"
-    },
-    {
         "name": "Mouse Click",
         "color": "rgb(123, 57, 205)",
         "mp3": "/media/sounds/clicksoundeffect.mp3"
     },
     {
-        "name": "Door Knocking (Very Realistic)",
-        "color": "rgb(49, 85, 6)",
-        "mp3": "/media/sounds/door-knocking-very-realistic.mp3"
-    },
-    {
         "name": "Censor Beep",
         "color": "rgb(153, 204, 0)",
         "mp3": "/media/sounds/censor-beep-7.mp3"
-    },
-    {
-        "name": "discord cat scream",
-        "color": "rgb(0, 255, 0)",
-        "mp3": "/media/sounds/discord-cat-scream.mp3"
-    },
-    {
-        "name": "Minecraft firework",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/minecraft-firework.mp3"
     },
     {
         "name": "yoshi tongue",
@@ -3288,24 +2548,9 @@ export const sounds =
         "mp3": "/media/sounds/squeak_Q72c7Tg.mp3"
     },
     {
-        "name": "SPONGEBOB 2000 YEARS LATER",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/spongebob-2000-years-later-2019-download-link.mp3"
-    },
-    {
         "name": "Undertaker's Gong",
         "color": "rgb(0, 0, 0)",
         "mp3": "/media/sounds/undertakers-bell.mp3"
-    },
-    {
-        "name": "mr beast give me sum money",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mr-beast-give-me-sum-money.mp3"
-    },
-    {
-        "name": "thank you thank you thank you",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/thank-you-thank-you-thank-you.mp3"
     },
     {
         "name": "NFL Draft Chime",
@@ -3328,16 +2573,6 @@ export const sounds =
         "mp3": "/media/sounds/can-we-get-much-higher-one-piece-meme.mp3"
     },
     {
-        "name": "HUH? Cat meme",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/huh-cat-meme.mp3"
-    },
-    {
-        "name": "Kaching Sound FX",
-        "color": "rgb(255, 245, 49)",
-        "mp3": "/media/sounds/kaching-sound-fx.mp3"
-    },
-    {
         "name": "alarma saturada",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/alarma-saturada.mp3"
@@ -3356,11 +2591,6 @@ export const sounds =
         "name": "ЭЭЭ КУТАК БАШ",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/eee-kutak-bash.mp3"
-    },
-    {
-        "name": "Сосать Америка",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sosat-amerika_UroO5KT.mp3"
     },
     {
         "name": "R2D2 SCREAM",
@@ -3418,11 +2648,6 @@ export const sounds =
         "mp3": "/media/sounds/cartoon-elephant-sound.mp3"
     },
     {
-        "name": "Among us",
-        "color": "rgb(138, 255, 29)",
-        "mp3": "/media/sounds/among.mp3"
-    },
-    {
         "name": "He Needs Some Milk",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/he-needs-some-milk-vine.mp3"
@@ -3438,39 +2663,14 @@ export const sounds =
         "mp3": "/media/sounds/half-life-2-stalker-scream.mp3"
     },
     {
-        "name": "idea (ding sound effect)",
-        "color": "rgb(157, 0, 0)",
-        "mp3": "/media/sounds/ding-sound-effect_2_bICB0mr.mp3"
-    },
-    {
         "name": "1500 es hora y media",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/1500-es-hora-y-media.mp3"
     },
     {
-        "name": "/",
-        "color": "rgb(255, 50, 79)",
-        "mp3": "/media/sounds/m_fixed_PLoG4ep.mp3"
-    },
-    {
         "name": "brain rot 67",
         "color": "rgb(0, 238, 255)",
         "mp3": "/media/sounds/brain-rot-67.mp3"
-    },
-    {
-        "name": "Cartoon elephant sound",
-        "color": "rgb(118, 110, 92)",
-        "mp3": "/media/sounds/cartoon-elephant-sound.mp3"
-    },
-    {
-        "name": "Among us",
-        "color": "rgb(138, 255, 29)",
-        "mp3": "/media/sounds/among.mp3"
-    },
-    {
-        "name": "He Needs Some Milk",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/he-needs-some-milk-vine.mp3"
     },
     {
         "name": "hamburger",
@@ -3486,11 +2686,6 @@ export const sounds =
         "name": "Why do I hear boss music",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/why-do-i-hear-boss-music.mp3"
-    },
-    {
-        "name": "McDonalds Beeping Sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mcdonalds-beeping-sound.mp3"
     },
     {
         "name": "RAAAAH",
@@ -3573,16 +2768,6 @@ export const sounds =
         "mp3": "/media/sounds/ringtone_20.mp3"
     },
     {
-        "name": "Discord_Ping",
-        "color": "rgb(68, 102, 255)",
-        "mp3": "/media/sounds/y2mate_rQlfs1Y.mp3"
-    },
-    {
-        "name": "Uncle Ruckus",
-        "color": "rgb(142, 235, 255)",
-        "mp3": "/media/sounds/uncle-ruckus.mp3"
-    },
-    {
         "name": "Pizza Tower Taunt",
         "color": "rgb(255, 38, 0)",
         "mp3": "/media/sounds/sfx_taunt.mp3"
@@ -3638,11 +2823,6 @@ export const sounds =
         "mp3": "/media/sounds/nani-meme-sound-effect.mp3"
     },
     {
-        "name": "VERY LOUD AIRHORN",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/veryloudairhorn.mp3"
-    },
-    {
         "name": "Discord Jebaiting",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/mikejebait.mp3"
@@ -3656,11 +2836,6 @@ export const sounds =
         "name": "Camera shutter",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/camera_zLdd1zp.mp3"
-    },
-    {
-        "name": "Munch (eating / biting)",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/munch-sound-effect.mp3"
     },
     {
         "name": "Chomp",
@@ -3696,11 +2871,6 @@ export const sounds =
         "name": "Я конченый бегите",
         "color": "rgb(2, 10, 255)",
         "mp3": "/media/sounds/ia-konchenyi-begite.mp3"
-    },
-    {
-        "name": "voce nao tem aura",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/voce-nao-tem-aura.mp3"
     },
     {
         "name": "LET IT RIDEEEEEEE",
@@ -3741,16 +2911,6 @@ export const sounds =
         "name": "3.2.1. Go",
         "color": "rgb(0, 0, 0)",
         "mp3": "/media/sounds/3-2-1-go-green-screen-footage-2xoehcl8evq.mp3"
-    },
-    {
-        "name": "Duolingo Correct",
-        "color": "rgb(26, 255, 13)",
-        "mp3": "/media/sounds/duolingo-correct.mp3"
-    },
-    {
-        "name": "thank you thank you thank you",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/thank-you-thank-you-thank-you.mp3"
     },
     {
         "name": "Zombies are coming - PVZ",
@@ -3798,11 +2958,6 @@ export const sounds =
         "mp3": "/media/sounds/laugh-remix.mp3"
     },
     {
-        "name": "nworldeiqwjhfsa",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/nworldeiqwjhfsa.mp3"
-    },
-    {
         "name": "Звук домофона",
         "color": "rgb(138, 255, 176)",
         "mp3": "/media/sounds/zvuk-domofona.mp3"
@@ -3813,19 +2968,9 @@ export const sounds =
         "mp3": "/media/sounds/iyot-sfx.mp3"
     },
     {
-        "name": "You stupid n-",
-        "color": "rgb(255, 31, 204)",
-        "mp3": "/media/sounds/you-stupid-n_5qa1o5s.mp3"
-    },
-    {
         "name": "Oh Hell No (Vine)",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/oh-hell-no-sound-effect-free-download.mp3"
-    },
-    {
-        "name": "hamburger",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/hamburger-sound-effect.mp3"
     },
     {
         "name": "Biden SODA!",
@@ -3873,11 +3018,6 @@ export const sounds =
         "mp3": "/media/sounds/buenas-tardes-grupo.mp3"
     },
     {
-        "name": "rainbow six siege ee-one-d (new)",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/lion-drone-sound-effect-new.mp3"
-    },
-    {
         "name": "Coffin Dance Meme",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/y2mate-mp3cut_sRzY6rh.mp3"
@@ -3908,11 +3048,6 @@ export const sounds =
         "mp3": "/media/sounds/slipandfall.mp3"
     },
     {
-        "name": "Chomp",
-        "color": "rgb(255, 241, 49)",
-        "mp3": "/media/sounds/chomp-1.mp3"
-    },
-    {
         "name": "Ear Ringing",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/ear-ringing.mp3"
@@ -3921,11 +3056,6 @@ export const sounds =
         "name": "3 2 1 Go FNF",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/3-2-1-go-sound-effect.mp3"
-    },
-    {
-        "name": "HUE HUE HUE metal sonic plush",
-        "color": "rgb(0, 16, 127)",
-        "mp3": "/media/sounds/hue-hue-hue-metal-sonic-plush.mp3"
     },
     {
         "name": "Groan Tube 1",
@@ -3938,34 +3068,9 @@ export const sounds =
         "mp3": "/media/sounds/oooweee.mp3"
     },
     {
-        "name": "WHAT ARE YOU DOING IN MY SWAMP",
-        "color": "rgb(0, 153, 0)",
-        "mp3": "/media/sounds/what-are-you-doing-in-my-swamp-.mp3"
-    },
-    {
-        "name": "Hell Naw Dog",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/hell-naw-dog.mp3"
-    },
-    {
-        "name": "Nani FULL",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/nani-meme-sound-effect.mp3"
-    },
-    {
         "name": "NFL theme song",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/nfl-theme-song-hq-mp3cut_yjEDUm1.mp3"
-    },
-    {
-        "name": "Record scratch sound effect",
-        "color": "rgb(255, 51, 0)",
-        "mp3": "/media/sounds/record-scratch_1.mp3"
-    },
-    {
-        "name": "Mario - Power Up",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/01-power-up-mario.mp3"
     },
     {
         "name": "Hell nah (dog)",
@@ -4018,16 +3123,6 @@ export const sounds =
         "mp3": "/media/sounds/discord-jumpscare.mp3"
     },
     {
-        "name": "Trollface Phonk",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/trollface-phonk.mp3"
-    },
-    {
-        "name": "Burnt peanut hell yeah",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/burnt-peanut-hell-yeah.mp3"
-    },
-    {
         "name": "Stop the Cap",
         "color": "rgb(79, 255, 211)",
         "mp3": "/media/sounds/zias-stop-the-cap_RjHQpxU.mp3"
@@ -4063,11 +3158,6 @@ export const sounds =
         "mp3": "/media/sounds/la-vida-es-un-carrusel.mp3"
     },
     {
-        "name": "Quick Ting",
-        "color": "rgb(53, 255, 127)",
-        "mp3": "/media/sounds/quick-ting.mp3"
-    },
-    {
         "name": "man screaming",
         "color": "rgb(217, 255, 57)",
         "mp3": "/media/sounds/man-screaming.mp3"
@@ -4076,11 +3166,6 @@ export const sounds =
         "name": "Мама, Я покакал",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/mama-ia-pokakal.mp3"
-    },
-    {
-        "name": "Mellstroy -Я помылся хахаха",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mellstroy-ia-pomylsia-khakhakha_2ovFyb8.mp3"
     },
     {
         "name": "OH SHIT! (echo)",
@@ -4123,11 +3208,6 @@ export const sounds =
         "mp3": "/media/sounds/mega-knight-clash-royale.mp3"
     },
     {
-        "name": "Гимн твича (без цензуры)",
-        "color": "rgb(47, 81, 159)",
-        "mp3": "/media/sounds/gimn-tvicha-bez-tsenzury.mp3"
-    },
-    {
         "name": "Привет пупсик",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/privet-pupsik.mp3"
@@ -4168,11 +3248,6 @@ export const sounds =
         "mp3": "/media/sounds/shadow-wizard-money-gang-we-love-casting-spells_3h95aGA.mp3"
     },
     {
-        "name": "Jeopardy",
-        "color": "rgb(0, 153, 0)",
-        "mp3": "/media/sounds/jeopardy.mp3"
-    },
-    {
         "name": "[FNAF] 6 AM",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/five-nights-at-freddys-6-am.mp3"
@@ -4181,11 +3256,6 @@ export const sounds =
         "name": "instant transmission",
         "color": "rgb(255, 255, 0)",
         "mp3": "/media/sounds/dragon_ball_z_tele.mp3"
-    },
-    {
-        "name": "(mafioso) scream",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/mafioso-scream.mp3"
     },
     {
         "name": "Mario coin sound",
@@ -4223,11 +3293,6 @@ export const sounds =
         "mp3": "/media/sounds/eyyyyyyy-six-seven.mp3"
     },
     {
-        "name": "MEGA KNIGHT CLASH ROYALE",
-        "color": "rgb(255, 252, 252)",
-        "mp3": "/media/sounds/mega-knight-clash-royale.mp3"
-    },
-    {
         "name": "I LIKE FEMBOYS",
         "color": "rgb(115, 255, 255)",
         "mp3": "/media/sounds/i-like-femboys_6JHIoHH.mp3"
@@ -4243,16 +3308,6 @@ export const sounds =
         "mp3": "/media/sounds/badumtss.swf.mp3"
     },
     {
-        "name": "Applause",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/applause-4.mp3"
-    },
-    {
-        "name": "Galaxy brain meme",
-        "color": "rgb(168, 245, 255)",
-        "mp3": "/media/sounds/galaxy-brain-meme.mp3"
-    },
-    {
         "name": "Transformers (transforming)",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/transforming-sound-from-the-transformers.mp3"
@@ -4266,11 +3321,6 @@ export const sounds =
         "name": "Bad joke (drums)",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/bad-joke-drums.mp3"
-    },
-    {
-        "name": "police siren",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/11900601.mp3"
     },
     {
         "name": "Minecraft Drop Item/Block Sound Effect",
@@ -4293,19 +3343,9 @@ export const sounds =
         "mp3": "/media/sounds/gotcha-bit-by-dave-chapelle.mp3"
     },
     {
-        "name": "Miau triste",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/miau-triste.mp3"
-    },
-    {
         "name": "formula 1 box box",
         "color": "rgb(255, 81, 81)",
         "mp3": "/media/sounds/formula-1-box-box.mp3"
-    },
-    {
-        "name": "transponder snail",
-        "color": "rgb(42, 84, 255)",
-        "mp3": "/media/sounds/transponder_snail.mp3"
     },
     {
         "name": "POU ESTOURADO",
@@ -4316,11 +3356,6 @@ export const sounds =
         "name": "Boing sound",
         "color": "rgb(77, 0, 255)",
         "mp3": "/media/sounds/boing-sound.mp3"
-    },
-    {
-        "name": "family guy cutaway music",
-        "color": "rgb(202, 157, 83)",
-        "mp3": "/media/sounds/family-guy-cutaway-music.mp3"
     },
     {
         "name": "Sonic.exe 2011X laugh",
@@ -4338,11 +3373,6 @@ export const sounds =
         "mp3": "/media/sounds/nouveau-jingle-netflix.mp3"
     },
     {
-        "name": "bfdi scream",
-        "color": "rgb(103, 255, 141)",
-        "mp3": "/media/sounds/the_bfdi_scream.mp3"
-    },
-    {
         "name": "Chick Fila HELP ME HELLLLP (just help)",
         "color": "rgb(255, 255, 255)",
         "mp3": "/media/sounds/chick-fila-help-me-hellllp-just-help.mp3"
@@ -4353,24 +3383,9 @@ export const sounds =
         "mp3": "/media/sounds/download_CTlTO3X.mp3"
     },
     {
-        "name": "Boing sound",
-        "color": "rgb(77, 0, 255)",
-        "mp3": "/media/sounds/boing-sound.mp3"
-    },
-    {
-        "name": "suspense build up",
-        "color": "rgb(62, 62, 62)",
-        "mp3": "/media/sounds/suspense-build-up.mp3"
-    },
-    {
         "name": "Zeep Glorp (green alien cat meme)",
         "color": "rgb(121, 255, 38)",
         "mp3": "/media/sounds/zeep-glorp-green-alien-cat-meme.mp3"
-    },
-    {
-        "name": "Foi quando Gyro Finalmente Entendeu",
-        "color": "rgb(55, 28, 137)",
-        "mp3": "/media/sounds/foi-quando-gyro-finalmente-entendeu.mp3"
     },
     {
         "name": "тунг тунг тунг саур татата саур",
@@ -4378,49 +3393,14 @@ export const sounds =
         "mp3": "/media/sounds/tung-tung-tung-saur-tatata-saur.mp3"
     },
     {
-        "name": "I LIKE FEMBOYS",
-        "color": "rgb(115, 255, 255)",
-        "mp3": "/media/sounds/i-like-femboys_6JHIoHH.mp3"
-    },
-    {
-        "name": "fahh but louder very loud",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/fahh-but-louder-very-loud.mp3"
-    },
-    {
         "name": "FNAF Balloon Boy Hi",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/echo1.mp3"
     },
     {
-        "name": "instant transmission",
-        "color": "rgb(255, 255, 0)",
-        "mp3": "/media/sounds/dragon_ball_z_tele.mp3"
-    },
-    {
         "name": "fart 2",
         "color": "rgb(102, 51, 0)",
         "mp3": "/media/sounds/fart_1.mp3"
-    },
-    {
-        "name": "ALL Goofy Sounds",
-        "color": "rgb(0, 217, 255)",
-        "mp3": "/media/sounds/all-goofy-sounds.mp3"
-    },
-    {
-        "name": "meme violin (sad violin)",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/meme-violin-sad-violin.mp3"
-    },
-    {
-        "name": "Alexis Texas",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/alexis-texas.mp3"
-    },
-    {
-        "name": "ААААААА ЖЕНЩИНА",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/aaaaaaa-zhenshchina.mp3"
     },
     {
         "name": "OMG IM COMING",
@@ -4438,19 +3418,9 @@ export const sounds =
         "mp3": "/media/sounds/im-sending-you-arthur-morgan.mp3"
     },
     {
-        "name": "Alex Jones - Destroy the Child",
-        "color": "rgb(255, 118, 199)",
-        "mp3": "/media/sounds/destroy-the-child.mp3"
-    },
-    {
         "name": "Zelda Theme Tema",
         "color": "rgb(0, 153, 0)",
         "mp3": "/media/sounds/zelda_theme_snes-cut-mp3.mp3"
-    },
-    {
-        "name": "O veado apertou play",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/o-veado-apertou-play.mp3"
     },
     {
         "name": "Roblox Death Sound Effect",
@@ -4463,24 +3433,9 @@ export const sounds =
         "mp3": "/media/sounds/hog-rider.mp3"
     },
     {
-        "name": "SHADOW WIZARD MONEY GANG WE LOVE CASTING SPELLS",
-        "color": "rgb(6, 6, 72)",
-        "mp3": "/media/sounds/shadow-wizard-money-gang-we-love-casting-spells_3h95aGA.mp3"
-    },
-    {
         "name": "Bye have a great time!",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/bye-have-a-great-time.mp3"
-    },
-    {
-        "name": "BOMBASTIC SIDE EYE",
-        "color": "rgb(156, 0, 0)",
-        "mp3": "/media/sounds/bombastic-side-eye.mp3"
-    },
-    {
-        "name": "Transformers (transforming)",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/transforming-sound-from-the-transformers.mp3"
     },
     {
         "name": "Tornado Siren",
@@ -4493,29 +3448,9 @@ export const sounds =
         "mp3": "/media/sounds/screaming-scout.mp3"
     },
     {
-        "name": "Gotcha Bit** by Dave Chapelle",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/gotcha-bit-by-dave-chapelle.mp3"
-    },
-    {
-        "name": "Old Church Bell Meme",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/old-church-bell-meme.mp3"
-    },
-    {
         "name": "frieza says hello",
         "color": "rgb(247, 26, 255)",
         "mp3": "/media/sounds/frieza-says-hello.mp3"
-    },
-    {
-        "name": "Sonic.exe 2011X laugh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sonic-exe-2011x-laugh.mp3"
-    },
-    {
-        "name": "Hell nah (dog)",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/hell-nah-dog_lU72pEf.mp3"
     },
     {
         "name": "20th Century Fox Fanfare",
@@ -4528,16 +3463,6 @@ export const sounds =
         "mp3": "/media/sounds/ahhhhhhhhhhhhhhhh_8axRFzx.mp3"
     },
     {
-        "name": "frieza says hello",
-        "color": "rgb(247, 26, 255)",
-        "mp3": "/media/sounds/frieza-says-hello.mp3"
-    },
-    {
-        "name": "Alexis Texas",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/alexis-texas.mp3"
-    },
-    {
         "name": "RAAAAAHHH ‼️‼️‼️",
         "color": "rgb(47, 255, 0)",
         "mp3": "/media/sounds/raaaaahhh.mp3"
@@ -4546,11 +3471,6 @@ export const sounds =
         "name": "415-й я база ответьте",
         "color": "rgb(63, 255, 150)",
         "mp3": "/media/sounds/415-i-ia-baza-otvette.mp3"
-    },
-    {
-        "name": "OMG IM COMING",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/omg-im-coming.mp3"
     },
     {
         "name": "Windows Error Sound",
@@ -4566,21 +3486,6 @@ export const sounds =
         "name": "Eagle",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/sounds_eng-00381.mp3"
-    },
-    {
-        "name": "Bye have a great time!",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/bye-have-a-great-time.mp3"
-    },
-    {
-        "name": "Galaxy brain meme",
-        "color": "rgb(168, 245, 255)",
-        "mp3": "/media/sounds/galaxy-brain-meme.mp3"
-    },
-    {
-        "name": "BOMBASTIC SIDE EYE",
-        "color": "rgb(156, 0, 0)",
-        "mp3": "/media/sounds/bombastic-side-eye.mp3"
     },
     {
         "name": "Cash Register",
@@ -4603,29 +3508,9 @@ export const sounds =
         "mp3": "/media/sounds/bass_vCrw3wU.mp3"
     },
     {
-        "name": "Chick Fila HELP ME HELLLLP (just help)",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/chick-fila-help-me-hellllp-just-help.mp3"
-    },
-    {
-        "name": "Download",
-        "color": "rgb(251, 255, 110)",
-        "mp3": "/media/sounds/download_CTlTO3X.mp3"
-    },
-    {
-        "name": "formula 1 box box",
-        "color": "rgb(255, 81, 81)",
-        "mp3": "/media/sounds/formula-1-box-box.mp3"
-    },
-    {
         "name": "cat iphone ringtone",
         "color": "rgb(224, 252, 255)",
         "mp3": "/media/sounds/cat-iphone-ringtone.mp3"
-    },
-    {
-        "name": "Foi quando Gyro Finalmente Entendeu",
-        "color": "rgb(55, 28, 137)",
-        "mp3": "/media/sounds/foi-quando-gyro-finalmente-entendeu.mp3"
     },
     {
         "name": "santa goo goo ga ga",
@@ -4633,44 +3518,14 @@ export const sounds =
         "mp3": "/media/sounds/santa-goo-goo-ga-ga.mp3"
     },
     {
-        "name": "Oooweee",
-        "color": "rgb(141, 147, 255)",
-        "mp3": "/media/sounds/oooweee.mp3"
-    },
-    {
-        "name": "kim jong un is the master of goon",
-        "color": "rgb(255, 231, 4)",
-        "mp3": "/media/sounds/kim-jong-un-is-the-master-of-goon.mp3"
-    },
-    {
-        "name": "Roblox Death Sound Effect",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/roblox-death-sound-effect.mp3"
-    },
-    {
         "name": "Hyper-Reallistic Knocking",
         "color": "rgb(0, 0, 0)",
         "mp3": "/media/sounds/crazy-realistic-knocking-sound-trim.mp3"
     },
     {
-        "name": "Hell Naw Dog",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/hell-naw-dog.mp3"
-    },
-    {
         "name": "omae wa mou shindeiru NANI",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/nani_Pmxf5n3.mp3"
-    },
-    {
-        "name": "hog rider",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/hog-rider.mp3"
-    },
-    {
-        "name": "SHADOW WIZARD MONEY GANG WE LOVE CASTING SPELLS",
-        "color": "rgb(6, 6, 72)",
-        "mp3": "/media/sounds/shadow-wizard-money-gang-we-love-casting-spells_3h95aGA.mp3"
     },
     {
         "name": "TF2 - Frying Pan",
@@ -4698,34 +3553,9 @@ export const sounds =
         "mp3": "/media/sounds/john-pork-is-calling-moooort.mp3"
     },
     {
-        "name": "Zeep Glorp (green alien cat meme)",
-        "color": "rgb(121, 255, 38)",
-        "mp3": "/media/sounds/zeep-glorp-green-alien-cat-meme.mp3"
-    },
-    {
         "name": "67 sound",
         "color": "rgb(2, 255, 217)",
         "mp3": "/media/sounds/67-sound.mp3"
-    },
-    {
-        "name": "Iyot SFX",
-        "color": "rgb(255, 38, 248)",
-        "mp3": "/media/sounds/iyot-sfx.mp3"
-    },
-    {
-        "name": "Sleeping",
-        "color": "rgb(67, 0, 255)",
-        "mp3": "/media/sounds/sleeping_HwTkaox.mp3"
-    },
-    {
-        "name": "SHADOW WIZARD MONEY GANG WE LOVE CASTING SPELLS",
-        "color": "rgb(6, 6, 72)",
-        "mp3": "/media/sounds/shadow-wizard-money-gang-we-love-casting-spells_3h95aGA.mp3"
-    },
-    {
-        "name": "BOMBASTIC SIDE EYE",
-        "color": "rgb(156, 0, 0)",
-        "mp3": "/media/sounds/bombastic-side-eye.mp3"
     },
     {
         "name": "Round One Fight",
@@ -4738,26 +3568,6 @@ export const sounds =
         "mp3": "/media/sounds/lets-go-gambling.mp3"
     },
     {
-        "name": "dry fart",
-        "color": "rgb(204, 102, 51)",
-        "mp3": "/media/sounds/dry-fart_3.mp3"
-    },
-    {
-        "name": "Cash Register",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/audiojoiner120623175716.mp3"
-    },
-    {
-        "name": "Hell nah (dog)",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/hell-nah-dog_lU72pEf.mp3"
-    },
-    {
-        "name": "Man Screaming Meme",
-        "color": "rgb(111, 214, 255)",
-        "mp3": "/media/sounds/man-screaming-memes-sound-effect-2020-for-pro-content-creators_HU6teNC.mp3"
-    },
-    {
         "name": "Sonic - You're Too Slow",
         "color": "rgb(255, 102, 0)",
         "mp3": "/media/sounds/sonic-youre-too-slow.mp3"
@@ -4766,16 +3576,6 @@ export const sounds =
         "name": "Domain Expansion - Sukuna",
         "color": "rgb(95, 0, 0)",
         "mp3": "/media/sounds/domain-expansion-sukuna.mp3"
-    },
-    {
-        "name": "Download",
-        "color": "rgb(251, 255, 110)",
-        "mp3": "/media/sounds/download_CTlTO3X.mp3"
-    },
-    {
-        "name": "Sonic.exe 2011X laugh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sonic-exe-2011x-laugh.mp3"
     },
     {
         "name": "family guy transition",
@@ -4788,69 +3588,14 @@ export const sounds =
         "mp3": "/media/sounds/weiii-daitaku-helios.mp3"
     },
     {
-        "name": "415-й я база ответьте",
-        "color": "rgb(63, 255, 150)",
-        "mp3": "/media/sounds/415-i-ia-baza-otvette.mp3"
-    },
-    {
-        "name": "santa goo goo ga ga",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/santa-goo-goo-ga-ga.mp3"
-    },
-    {
-        "name": "Windows Error Sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/windows-error-sound_9PcNR0C.mp3"
-    },
-    {
-        "name": "Roblox Death Sound Effect",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/roblox-death-sound-effect.mp3"
-    },
-    {
-        "name": "Hyper-Reallistic Knocking",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/crazy-realistic-knocking-sound-trim.mp3"
-    },
-    {
-        "name": "Hell Naw Dog",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/hell-naw-dog.mp3"
-    },
-    {
-        "name": "omae wa mou shindeiru NANI",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/nani_Pmxf5n3.mp3"
-    },
-    {
-        "name": "Bye have a great time!",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/bye-have-a-great-time.mp3"
-    },
-    {
         "name": "Wah wah wah waaaaaaaahhh",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/wah-wah-sound-effect.mp3"
     },
     {
-        "name": "Spongebob - Grass Skirt Chase",
-        "color": "rgb(255, 244, 43)",
-        "mp3": "/media/sounds/spongebob-music_-grass-skirt-chase-1.mp3"
-    },
-    {
-        "name": "Mario Star Power",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/super-mario-bros-nes-music-star-theme-cut-mp3.mp3"
-    },
-    {
         "name": "JOJO SONG",
         "color": "rgb(255, 252, 90)",
         "mp3": "/media/sounds/jojos-golden-wind_kL2WElB.mp3"
-    },
-    {
-        "name": "fart 2",
-        "color": "rgb(102, 51, 0)",
-        "mp3": "/media/sounds/fart_1.mp3"
     },
     {
         "name": "FNAF Balloon Boy Laugh",
@@ -4866,11 +3611,6 @@ export const sounds =
         "name": "School Bell",
         "color": "rgb(0, 204, 0)",
         "mp3": "/media/sounds/school-bell-ringing-sound-effect.mp3"
-    },
-    {
-        "name": "scout scream",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/screaming-scout.mp3"
     },
     {
         "name": "Kaboom Kablaow",
@@ -4893,24 +3633,9 @@ export const sounds =
         "mp3": "/media/sounds/ustoopid.mp3"
     },
     {
-        "name": "You Are My Sunshine Lebron James",
-        "color": "rgb(241, 255, 180)",
-        "mp3": "/media/sounds/you-are-my-sunshine-lebron-james.mp3"
-    },
-    {
         "name": "World's Smallest Violin",
         "color": "rgb(0, 0, 0)",
         "mp3": "/media/sounds/worlds-smallest-violin.mp3"
-    },
-    {
-        "name": "Spongebob - Grass Skirt Chase",
-        "color": "rgb(255, 244, 43)",
-        "mp3": "/media/sounds/spongebob-music_-grass-skirt-chase-1.mp3"
-    },
-    {
-        "name": "Mario Star Power",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/super-mario-bros-nes-music-star-theme-cut-mp3.mp3"
     },
     {
         "name": "tom da tank meme",
@@ -4918,24 +3643,9 @@ export const sounds =
         "mp3": "/media/sounds/loud-version_7n1qEm2.mp3"
     },
     {
-        "name": "(mafioso) scream",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/mafioso-scream.mp3"
-    },
-    {
-        "name": "Joker Shitpost beatbox",
-        "color": "rgb(22, 255, 46)",
-        "mp3": "/media/sounds/joker-shitpost-beatbox.mp3"
-    },
-    {
         "name": "goofy scream",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/goofy-yell_LvAybRd.mp3"
-    },
-    {
-        "name": "Miau triste",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/miau-triste.mp3"
     },
     {
         "name": "FAHHHHHH",
@@ -4953,16 +3663,6 @@ export const sounds =
         "mp3": "/media/sounds/round-ending-gorilla-tag.mp3"
     },
     {
-        "name": "Charlie Charlie Kirky",
-        "color": "rgb(56, 199, 255)",
-        "mp3": "/media/sounds/charlie-charlie-kirky.mp3"
-    },
-    {
-        "name": "Zeep Glorp (green alien cat meme)",
-        "color": "rgb(121, 255, 38)",
-        "mp3": "/media/sounds/zeep-glorp-green-alien-cat-meme.mp3"
-    },
-    {
         "name": "Stagger LIMBUS COMPANY",
         "color": "rgb(255, 255, 255)",
         "mp3": "/media/sounds/stagger-limbus-company.mp3"
@@ -4978,34 +3678,14 @@ export const sounds =
         "mp3": "/media/sounds/meow-ghop-ghop-ghop.mp3"
     },
     {
-        "name": "Привет пупсик",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/privet-pupsik.mp3"
-    },
-    {
         "name": "Baby boo",
         "color": "rgb(59, 255, 59)",
         "mp3": "/media/sounds/baby-boo_GQh7SML.mp3"
     },
     {
-        "name": "YEET",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/yeet-sound-effect.mp3"
-    },
-    {
         "name": "bye bye mewing",
         "color": "rgb(35, 26, 255)",
         "mp3": "/media/sounds/bye-bye-mewing_fMVssQz.mp3"
-    },
-    {
-        "name": "Record Scratch",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/record-scratch.mp3"
-    },
-    {
-        "name": "Galaxy brain meme",
-        "color": "rgb(168, 245, 255)",
-        "mp3": "/media/sounds/galaxy-brain-meme.mp3"
     },
     {
         "name": "undertale - megalovania",
@@ -5023,19 +3703,9 @@ export const sounds =
         "mp3": "/media/sounds/ayhelp.mp3"
     },
     {
-        "name": "Doom Eternal",
-        "color": "rgb(0, 255, 0)",
-        "mp3": "/media/sounds/doom-eternal.mp3"
-    },
-    {
         "name": "rizzzzzzzzing",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/rizzzzzzzzing.mp3"
-    },
-    {
-        "name": "Netflix intro",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/nouveau-jingle-netflix.mp3"
     },
     {
         "name": "THE LOUDEST NOISE EVER!",
@@ -5088,19 +3758,9 @@ export const sounds =
         "mp3": "/media/sounds/curb-your-enthusiasm.mp3"
     },
     {
-        "name": "Round One Fight",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mortal-kombat-9-sound-drop-round-1-fight.mp3"
-    },
-    {
         "name": "iCarly Cheers",
         "color": "rgb(39, 248, 255)",
         "mp3": "/media/sounds/icarly-cheers.mp3"
-    },
-    {
-        "name": "rizzzzzzzzing",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/rizzzzzzzzing.mp3"
     },
     {
         "name": "Crickets Chirping",
@@ -5158,11 +3818,6 @@ export const sounds =
         "mp3": "/media/sounds/oh-my-god-bro-ah-hell-nah.mp3"
     },
     {
-        "name": "cat iphone ringtone",
-        "color": "rgb(224, 252, 255)",
-        "mp3": "/media/sounds/cat-iphone-ringtone.mp3"
-    },
-    {
         "name": "MLP Squee",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/mlp-squee.mp3"
@@ -5213,11 +3868,6 @@ export const sounds =
         "mp3": "/media/sounds/taco-bell.mp3"
     },
     {
-        "name": "Wah wah wah waaaaaaaahhh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/wah-wah-sound-effect.mp3"
-    },
-    {
         "name": "Old Minecraft Zombie Sound",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/old-sound-of-zombie-in-minecraft.mp3"
@@ -5233,49 +3883,9 @@ export const sounds =
         "mp3": "/media/sounds/dr-livesey.mp3"
     },
     {
-        "name": "BurntPeanut-ueheuehuehuehaeu",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/burntpeanut-ueheuehuehuehaeu.mp3"
-    },
-    {
-        "name": "Open the noor!",
-        "color": "rgb(109, 255, 37)",
-        "mp3": "/media/sounds/open-the-noor.mp3"
-    },
-    {
-        "name": "Goose HONK!",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/honk-sound.mp3"
-    },
-    {
         "name": "Its A Me, Mario",
         "color": "rgb(204, 51, 0)",
         "mp3": "/media/sounds/its-me-mario.mp3"
-    },
-    {
-        "name": "im in danger",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/fma6waln.mp3"
-    },
-    {
-        "name": "LOUD Taco Bell Bong",
-        "color": "rgb(255, 245, 176)",
-        "mp3": "/media/sounds/taco-bell.mp3"
-    },
-    {
-        "name": "World's Smallest Violin",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/worlds-smallest-violin.mp3"
-    },
-    {
-        "name": "Wah wah wah waaaaaaaahhh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/wah-wah-sound-effect.mp3"
-    },
-    {
-        "name": "Old Minecraft Zombie Sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/old-sound-of-zombie-in-minecraft.mp3"
     },
     {
         "name": "Mario kart start race",
@@ -5286,16 +3896,6 @@ export const sounds =
         "name": "tung tung tung tung sahur",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/tung-tung-tung-tung-sahur.mp3"
-    },
-    {
-        "name": "WHAT THE HELLLLLLLLLLLL",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/what-the-hellllllllllll.mp3"
-    },
-    {
-        "name": "Dr. Livesey",
-        "color": "rgb(11, 57, 3)",
-        "mp3": "/media/sounds/dr-livesey.mp3"
     },
     {
         "name": "blink",
@@ -5358,21 +3958,6 @@ export const sounds =
         "mp3": "/media/sounds/wtf_boom.mp3"
     },
     {
-        "name": "Sicko Mode Meme SFX",
-        "color": "rgb(255, 170, 0)",
-        "mp3": "/media/sounds/the-beginning-of-sicko-mode-sound-effect-for-memes_xAcUeuI.mp3"
-    },
-    {
-        "name": "You Stupid",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/ustoopid.mp3"
-    },
-    {
-        "name": "You Are My Sunshine Lebron James",
-        "color": "rgb(241, 255, 180)",
-        "mp3": "/media/sounds/you-are-my-sunshine-lebron-james.mp3"
-    },
-    {
         "name": "I am Steve",
         "color": "rgb(48, 169, 255)",
         "mp3": "/media/sounds/i-am-steve.mp3"
@@ -5413,21 +3998,6 @@ export const sounds =
         "mp3": "/media/sounds/what-the-hell-speed-up.mp3"
     },
     {
-        "name": "atumalaca hahahahaha",
-        "color": "rgb(255, 131, 186)",
-        "mp3": "/media/sounds/risada-do-peludao-atumalaca.mp3"
-    },
-    {
-        "name": "moai",
-        "color": "rgb(145, 145, 145)",
-        "mp3": "/media/sounds/moai.mp3"
-    },
-    {
-        "name": "what the hell (speed up)",
-        "color": "rgb(108, 28, 132)",
-        "mp3": "/media/sounds/what-the-hell-speed-up.mp3"
-    },
-    {
         "name": "Rosa De Guadalupe Suspense",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/untitled-4319-10.mp3"
@@ -5436,11 +4006,6 @@ export const sounds =
         "name": "Low Health / Critical Health Pokémon",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/low-health-critical-health-pokemon.mp3"
-    },
-    {
-        "name": "Domain Expansion - Sukuna",
-        "color": "rgb(95, 0, 0)",
-        "mp3": "/media/sounds/domain-expansion-sukuna.mp3"
     },
     {
         "name": "TF2 Notification Sound",
@@ -5523,11 +4088,6 @@ export const sounds =
         "mp3": "/media/sounds/the-rap-battle-parody-oh.mp3"
     },
     {
-        "name": "Tyler1 Help",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/ayhelp.mp3"
-    },
-    {
         "name": "AMONGUS",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/among_us_trap_remix_bass_boosted_leonz_8455886905626474145-mp3cut.mp3"
@@ -5556,11 +4116,6 @@ export const sounds =
         "name": "Talking Ben No",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/talking-ben-no.mp3"
-    },
-    {
-        "name": "THE LOUDEST NOISE EVER!",
-        "color": "rgb(255, 247, 246)",
-        "mp3": "/media/sounds/the-loudest-noise-ever.mp3"
     },
     {
         "name": "Thanks for the follow!",
@@ -5593,24 +4148,9 @@ export const sounds =
         "mp3": "/media/sounds/what_JOcN7Y8.mp3"
     },
     {
-        "name": "round ending gorilla tag",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/round-ending-gorilla-tag.mp3"
-    },
-    {
         "name": "question mark",
         "color": "rgb(12, 89, 255)",
         "mp3": "/media/sounds/question-mark.mp3"
-    },
-    {
-        "name": "тунг тунг тунг саур татата саур",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/tung-tung-tung-saur-tatata-saur.mp3"
-    },
-    {
-        "name": "Allahu akbaar",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/allahu-akbaar.mp3"
     },
     {
         "name": "Doutor Nefário (música)",
@@ -5623,29 +4163,14 @@ export const sounds =
         "mp3": "/media/sounds/bongo-feet.mp3"
     },
     {
-        "name": "PACKING LOUDEST",
-        "color": "rgb(94, 0, 0)",
-        "mp3": "/media/sounds/packing-loudest.mp3"
-    },
-    {
         "name": "Don't push the red button!",
         "color": "rgb(102, 0, 0)",
         "mp3": "/media/sounds/explosion-sound-effect.mp3"
     },
     {
-        "name": "Kissing Sound",
-        "color": "rgb(255, 0, 204)",
-        "mp3": "/media/sounds/smoochykiss.mp3"
-    },
-    {
         "name": "Slash undertale",
         "color": "rgb(100, 0, 0)",
         "mp3": "/media/sounds/undertale-attack-slash-green-screen.mp3"
-    },
-    {
-        "name": "Boing Boing",
-        "color": "rgb(255, 0, 153)",
-        "mp3": "/media/sounds/japan-oppai-sound.mp3"
     },
     {
         "name": "Price is Right Failure",
@@ -5678,29 +4203,14 @@ export const sounds =
         "mp3": "/media/sounds/6-77.mp3"
     },
     {
-        "name": "stupid ni-",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/stupid-ni_fP74ILk.mp3"
-    },
-    {
         "name": "Chainsawman Power i hate ga",
         "color": "rgb(255, 41, 41)",
         "mp3": "/media/sounds/chainsawman-power-i-hate-ga.mp3"
     },
     {
-        "name": "LOUD Taco Bell Bong",
-        "color": "rgb(255, 245, 176)",
-        "mp3": "/media/sounds/taco-bell.mp3"
-    },
-    {
         "name": "Nintendo Switch Click",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/switch-sound.mp3"
-    },
-    {
-        "name": "Old Minecraft Zombie Sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/old-sound-of-zombie-in-minecraft.mp3"
     },
     {
         "name": "Mina Mexicana™ Fart",
@@ -5713,11 +4223,6 @@ export const sounds =
         "mp3": "/media/sounds/fortnite-pump-shotgun.mp3"
     },
     {
-        "name": "'What'meme",
-        "color": "rgb(112, 237, 205)",
-        "mp3": "/media/sounds/what_JOcN7Y8.mp3"
-    },
-    {
         "name": "Blood Splatter 44101",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/blood-splatter-44101_jogObWJ.mp3"
@@ -5726,11 +4231,6 @@ export const sounds =
         "name": "ayooooooo",
         "color": "rgb(66, 252, 255)",
         "mp3": "/media/sounds/ayooooooo_R0QLGMG.mp3"
-    },
-    {
-        "name": "Lego Batman Laugh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/lego-batman-laugh.mp3"
     },
     {
         "name": "Roblox ahh",
@@ -5758,11 +4258,6 @@ export const sounds =
         "mp3": "/media/sounds/mk11-fatality.mp3"
     },
     {
-        "name": "Inception Button",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/inceptionbutton.mp3"
-    },
-    {
         "name": "lord have mercy i'm about to bust",
         "color": "rgb(82, 220, 255)",
         "mp3": "/media/sounds/lord-have-mercy-im-bout-to-bust.mp3"
@@ -5771,11 +4266,6 @@ export const sounds =
         "name": "Sad violin (14sec)",
         "color": "rgb(0, 0, 0)",
         "mp3": "/media/sounds/export_4.mp3"
-    },
-    {
-        "name": "cat iphone ringtone",
-        "color": "rgb(224, 252, 255)",
-        "mp3": "/media/sounds/cat-iphone-ringtone.mp3"
     },
     {
         "name": "ak47 loud",
@@ -5793,24 +4283,9 @@ export const sounds =
         "mp3": "/media/sounds/baby-launghing-bass-boosted.mp3"
     },
     {
-        "name": "Tmkc Mahavirwa wala",
-        "color": "rgb(255, 40, 0)",
-        "mp3": "/media/sounds/tmkc-mahavirwa-wala.mp3"
-    },
-    {
         "name": "Да ты че",
         "color": "rgb(211, 255, 141)",
         "mp3": "/media/sounds/da-ty-che.mp3"
-    },
-    {
-        "name": "You Should Kill Yourself NOW!",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/you-should-kill-yourself-now_kw2zfGg.mp3"
-    },
-    {
-        "name": "loudest alarm ever made",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/loudest-alarm-ever-made.mp3"
     },
     {
         "name": "I can smell you",
@@ -5833,11 +4308,6 @@ export const sounds =
         "mp3": "/media/sounds/mr-krabs-walking.mp3"
     },
     {
-        "name": "Cash Register",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/audiojoiner120623175716.mp3"
-    },
-    {
         "name": "Fnaf 6 Jumpscare Sound",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/fnaf-6-jumpscare-sound-effect.mp3"
@@ -5851,11 +4321,6 @@ export const sounds =
         "name": "Undertale - Omega Flowey Laugh",
         "color": "rgb(255, 255, 0)",
         "mp3": "/media/sounds/00002a5b.mp3"
-    },
-    {
-        "name": "SEND THEM TO THE SLAUGHTERHOUSE REEEEEEEEEEEEEEE",
-        "color": "rgb(217, 0, 0)",
-        "mp3": "/media/sounds/send-them-to-the-slaughterhouse-reeeeeeeeeeeeeee.mp3"
     },
     {
         "name": "Gaster Vanish",
@@ -5878,11 +4343,6 @@ export const sounds =
         "mp3": "/media/sounds/slendy1.mp3"
     },
     {
-        "name": "Dr. Livesey",
-        "color": "rgb(11, 57, 3)",
-        "mp3": "/media/sounds/dr-livesey.mp3"
-    },
-    {
         "name": "Door Knocking SFX",
         "color": "rgb(255, 222, 55)",
         "mp3": "/media/sounds/door-knocking.mp3"
@@ -5901,16 +4361,6 @@ export const sounds =
         "name": "OKAY LETS  GO",
         "color": "rgb(203, 52, 255)",
         "mp3": "/media/sounds/okay-lets-go_buBmJye.mp3"
-    },
-    {
-        "name": "musica romantica",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/musica-romantica.mp3"
-    },
-    {
-        "name": "bass boost drop!",
-        "color": "rgb(255, 169, 234)",
-        "mp3": "/media/sounds/bass-boost-drop.mp3"
     },
     {
         "name": "IHIHIHIHI HAHAHAHA - Starcasm Nyx Yandere Laugh",
@@ -5953,16 +4403,6 @@ export const sounds =
         "mp3": "/media/sounds/goopa-gotta-goop.mp3"
     },
     {
-        "name": "musica romantica",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/musica-romantica.mp3"
-    },
-    {
-        "name": "'What'meme",
-        "color": "rgb(112, 237, 205)",
-        "mp3": "/media/sounds/what_JOcN7Y8.mp3"
-    },
-    {
         "name": "Popular Riser",
         "color": "rgb(0, 213, 255)",
         "mp3": "/media/sounds/popular-riser.mp3"
@@ -5978,19 +4418,9 @@ export const sounds =
         "mp3": "/media/sounds/fetty_wap_679_feat_2.mp3"
     },
     {
-        "name": "round ending gorilla tag",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/round-ending-gorilla-tag.mp3"
-    },
-    {
         "name": "WINNERS",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/winners_W9Cpenj.mp3"
-    },
-    {
-        "name": "Stagger LIMBUS COMPANY",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/stagger-limbus-company.mp3"
     },
     {
         "name": "Hood Irony Subscribe Bell",
@@ -6053,11 +4483,6 @@ export const sounds =
         "mp3": "/media/sounds/kim-jong-un-brainrot.mp3"
     },
     {
-        "name": "Allahu akbaar",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/allahu-akbaar.mp3"
-    },
-    {
         "name": "ayoko malupiton",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/ayoko-malupiton.mp3"
@@ -6086,11 +4511,6 @@ export const sounds =
         "name": "The Simpsons - Nelson's HA-HA!",
         "color": "rgb(255, 255, 0)",
         "mp3": "/media/sounds/the-simpsons-nelsons-haha.mp3"
-    },
-    {
-        "name": "Cash Register",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/audiojoiner120623175716.mp3"
     },
     {
         "name": "LOUD ALARM",
@@ -6123,11 +4543,6 @@ export const sounds =
         "mp3": "/media/sounds/explosion_1.mp3"
     },
     {
-        "name": "fortnite pump shotgun",
-        "color": "rgb(81, 255, 41)",
-        "mp3": "/media/sounds/fortnite-pump-shotgun.mp3"
-    },
-    {
         "name": "Funny Laugh Track",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/laugh-track-2-mp3cut.mp3"
@@ -6136,11 +4551,6 @@ export const sounds =
         "name": "Breaking Bad Intro",
         "color": "rgb(0, 102, 0)",
         "mp3": "/media/sounds/breaking-bad-intro.mp3"
-    },
-    {
-        "name": "Party Horn thing",
-        "color": "rgb(255, 51, 51)",
-        "mp3": "/media/sounds/partyblower.mp3"
     },
     {
         "name": "Cotton eye joe (nuggets)",
@@ -6181,11 +4591,6 @@ export const sounds =
         "name": "Dreaming Harp",
         "color": "rgb(140, 255, 195)",
         "mp3": "/media/sounds/dreaming-harp-sound-effect.mp3"
-    },
-    {
-        "name": "question mark",
-        "color": "rgb(12, 89, 255)",
-        "mp3": "/media/sounds/question-mark.mp3"
     },
     {
         "name": "Минута пошла",
@@ -6236,16 +4641,6 @@ export const sounds =
         "name": "Giorno's Theme normal",
         "color": "rgb(255, 250, 114)",
         "mp3": "/media/sounds/giornos-theme-but-only-the-best-part-is-in_vwd15lya_lyb0-online-audio-converter.mp3"
-    },
-    {
-        "name": "Teleport sound",
-        "color": "rgb(102, 204, 255)",
-        "mp3": "/media/sounds/dbz-teleport.mp3"
-    },
-    {
-        "name": "Gojo I Stroke My Pickle",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/gojo-i-stroke-my-pickle.mp3"
     },
     {
         "name": "Stone Sliding",
@@ -6316,16 +4711,6 @@ export const sounds =
         "name": "Minecraft - Glass Break",
         "color": "rgb(94, 248, 255)",
         "mp3": "/media/sounds/minecraft-glass-break.mp3"
-    },
-    {
-        "name": "ak47 loud",
-        "color": "rgb(45, 58, 255)",
-        "mp3": "/media/sounds/ak47-loud.mp3"
-    },
-    {
-        "name": "fighting sound effect",
-        "color": "rgb(40, 83, 255)",
-        "mp3": "/media/sounds/fighting-sound-effect.mp3"
     },
     {
         "name": "Long brain fart earrape",
@@ -6438,11 +4823,6 @@ export const sounds =
         "mp3": "/media/sounds/ambatukam.mp3"
     },
     {
-        "name": "Zelda chest opening",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/zelda-chest-opening-and-item-catch.mp3"
-    },
-    {
         "name": "scooby doo laugh sped up",
         "color": "rgb(148, 71, 26)",
         "mp3": "/media/sounds/scooby-doo-laugh-sped-up.mp3"
@@ -6463,44 +4843,14 @@ export const sounds =
         "mp3": "/media/sounds/nuh-uh-meme.mp3"
     },
     {
-        "name": "fortnite pump shotgun",
-        "color": "rgb(81, 255, 41)",
-        "mp3": "/media/sounds/fortnite-pump-shotgun.mp3"
-    },
-    {
         "name": "Sad Hamster",
         "color": "rgb(15, 80, 206)",
         "mp3": "/media/sounds/sad-hamster.mp3"
     },
     {
-        "name": "gigachad theme music",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/gigachad-theme-music.mp3"
-    },
-    {
-        "name": "formula 1 radio notification",
-        "color": "rgb(126, 255, 107)",
-        "mp3": "/media/sounds/formula-1-radio-notification.mp3"
-    },
-    {
         "name": "angry birds theme",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/angry-birds-theme-song-audiotrimmer.mp3"
-    },
-    {
-        "name": "OKAY LETS  GO",
-        "color": "rgb(203, 52, 255)",
-        "mp3": "/media/sounds/okay-lets-go_buBmJye.mp3"
-    },
-    {
-        "name": "alexis texas important news",
-        "color": "rgb(255, 184, 234)",
-        "mp3": "/media/sounds/alexis-texas-important-news.mp3"
-    },
-    {
-        "name": "Jew jew jew jew jew jew jew jew",
-        "color": "rgb(0, 77, 255)",
-        "mp3": "/media/sounds/jew-jew-jew-jew-jew-jew-jew-jew.mp3"
     },
     {
         "name": "OOOH MY GOD",
@@ -6513,19 +4863,9 @@ export const sounds =
         "mp3": "/media/sounds/among-us-roundstart.mp3"
     },
     {
-        "name": "GMod ragdoll impact sounds",
-        "color": "rgb(0, 255, 0)",
-        "mp3": "/media/sounds/tmpl0bxqky_.mp3"
-    },
-    {
         "name": "Meme omgs",
         "color": "rgb(255, 217, 27)",
         "mp3": "/media/sounds/meme_lgkJmX6.mp3"
-    },
-    {
-        "name": "tung tung tung tung sahur",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/tung-tung-tung-tung-sahur.mp3"
     },
     {
         "name": "pizza roblox",
@@ -6533,19 +4873,9 @@ export const sounds =
         "mp3": "/media/sounds/trim_7tpktqR.mp3"
     },
     {
-        "name": "spongebob oh yeah",
-        "color": "rgb(255, 255, 0)",
-        "mp3": "/media/sounds/32323232322.mp3"
-    },
-    {
         "name": "Minecraft Villager Death",
         "color": "rgb(0, 4, 255)",
         "mp3": "/media/sounds/villager.mp3"
-    },
-    {
-        "name": "Dr. Livesey",
-        "color": "rgb(11, 57, 3)",
-        "mp3": "/media/sounds/dr-livesey.mp3"
     },
     {
         "name": "Horse Neigh",
@@ -6558,11 +4888,6 @@ export const sounds =
         "mp3": "/media/sounds/konkonse.mp3"
     },
     {
-        "name": "gigachad theme music",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/gigachad-theme-music.mp3"
-    },
-    {
         "name": "Ewww (Crowd Effect)",
         "color": "rgb(248, 255, 49)",
         "mp3": "/media/sounds/ewww.mp3"
@@ -6573,11 +4898,6 @@ export const sounds =
         "mp3": "/media/sounds/chattering-teeth.mp3"
     },
     {
-        "name": "Crying Black Dude MEME",
-        "color": "rgb(62, 255, 201)",
-        "mp3": "/media/sounds/crying-black-dude-meme.mp3"
-    },
-    {
         "name": "Minecraft Dog Bark",
         "color": "rgb(210, 210, 210)",
         "mp3": "/media/sounds/minecraft-dog-bark.mp3"
@@ -6586,11 +4906,6 @@ export const sounds =
         "name": "Super Mario Beedoo (Normalized)",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/super-mario-beedoo-normalized.mp3"
-    },
-    {
-        "name": "Maltigi",
-        "color": "rgb(77, 234, 31)",
-        "mp3": "/media/sounds/maltigi.mp3"
     },
     {
         "name": "Yes King You Digging In",
@@ -6613,16 +4928,6 @@ export const sounds =
         "mp3": "/media/sounds/dear-basketball.mp3"
     },
     {
-        "name": "Standoff 2 звук бомбы",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/standoff-2-zvuk-bomby.mp3"
-    },
-    {
-        "name": "Стипка228про",
-        "color": "rgb(88, 255, 241)",
-        "mp3": "/media/sounds/stipka228pro.mp3"
-    },
-    {
         "name": "TUN TUN FORRÓ",
         "color": "rgb(255, 37, 84)",
         "mp3": "/media/sounds/tun-tun-forro.mp3"
@@ -6643,11 +4948,6 @@ export const sounds =
         "mp3": "/media/sounds/bomb-has-been-planted-sound-effect-cs-go.mp3"
     },
     {
-        "name": "I am Steve",
-        "color": "rgb(48, 169, 255)",
-        "mp3": "/media/sounds/i-am-steve.mp3"
-    },
-    {
         "name": "Vine - Dramatic Boom Sound Eff",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/vine-dramatic-boom-sound-effect.mp3"
@@ -6663,44 +4963,9 @@ export const sounds =
         "mp3": "/media/sounds/sonic-spindash.mp3"
     },
     {
-        "name": "Rust Headshot",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/eaolwpzhgsba.mp3"
-    },
-    {
         "name": "Undertale Gaster blaster",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/gaster_blaster_sound_effect_1.mp3"
-    },
-    {
-        "name": "Explosion",
-        "color": "rgb(255, 51, 0)",
-        "mp3": "/media/sounds/barrel-exploding-soundbible.mp3"
-    },
-    {
-        "name": "Ambatukam",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/ambatukam.mp3"
-    },
-    {
-        "name": "scooby doo laugh sped up",
-        "color": "rgb(148, 71, 26)",
-        "mp3": "/media/sounds/scooby-doo-laugh-sped-up.mp3"
-    },
-    {
-        "name": "Giggity",
-        "color": "rgb(153, 255, 0)",
-        "mp3": "/media/sounds/quagmire-giggity-giggity-giggity.mp3"
-    },
-    {
-        "name": "NUH UH MEME",
-        "color": "rgb(56, 122, 0)",
-        "mp3": "/media/sounds/nuh-uh-meme.mp3"
-    },
-    {
-        "name": "Sad Hamster",
-        "color": "rgb(15, 80, 206)",
-        "mp3": "/media/sounds/sad-hamster.mp3"
     },
     {
         "name": "Doorbell",
@@ -6743,16 +5008,6 @@ export const sounds =
         "mp3": "/media/sounds/ring-doorbell-sound.mp3"
     },
     {
-        "name": "formula 1 radio notification",
-        "color": "rgb(126, 255, 107)",
-        "mp3": "/media/sounds/formula-1-radio-notification.mp3"
-    },
-    {
-        "name": "angry birds theme",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/angry-birds-theme-song-audiotrimmer.mp3"
-    },
-    {
         "name": "Godzilla Roar 2",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/godzilla_2.mp3"
@@ -6761,11 +5016,6 @@ export const sounds =
         "name": "Discord Calling",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/discord-call-sound_tvxg95l.mp3"
-    },
-    {
-        "name": "Jerkmate",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/jerkmate_zg37Y8g.mp3"
     },
     {
         "name": "Pokémon plink",
@@ -6788,21 +5038,6 @@ export const sounds =
         "mp3": "/media/sounds/theburntpeanut-lets-ride.mp3"
     },
     {
-        "name": "Minecraft - Glass Break",
-        "color": "rgb(94, 248, 255)",
-        "mp3": "/media/sounds/minecraft-glass-break.mp3"
-    },
-    {
-        "name": "Jet Set Radio - Success",
-        "color": "rgb(50, 255, 0)",
-        "mp3": "/media/sounds/jet-set-radio-success.mp3"
-    },
-    {
-        "name": "Long brain fart earrape",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/long-brain-fart-earrape.mp3"
-    },
-    {
         "name": "67 Meme",
         "color": "rgb(0, 0, 0)",
         "mp3": "/media/sounds/67-meme_cdLcL5q.mp3"
@@ -6813,54 +5048,14 @@ export const sounds =
         "mp3": "/media/sounds/my-name-is-john-marston.mp3"
     },
     {
-        "name": "teto.wav",
-        "color": "rgb(255, 41, 84)",
-        "mp3": "/media/sounds/teto-wav.mp3"
-    },
-    {
         "name": "explosion sound",
         "color": "rgb(77, 76, 255)",
         "mp3": "/media/sounds/explosion-sound.mp3"
     },
     {
-        "name": "Grappige Djern",
-        "color": "rgb(153, 0, 0)",
-        "mp3": "/media/sounds/whatsapp-audio-2016-09-16-at-23.mp3"
-    },
-    {
-        "name": "Burnt Peanut Little Bit of Goop",
-        "color": "rgb(255, 2, 230)",
-        "mp3": "/media/sounds/burnt-peanut-little-bit-of-goop.mp3"
-    },
-    {
-        "name": "Burger did he say that his last name is burger",
-        "color": "rgb(80, 122, 255)",
-        "mp3": "/media/sounds/burger-did-he-say-that-his-last-name-is-burger.mp3"
-    },
-    {
         "name": "HEY ANTEK ANTEK ASING - Prabowo",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/hey-antek-antek-asing-prabowo.mp3"
-    },
-    {
-        "name": "Wrong Answer",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/wrong-answer-sound-fx.mp3"
-    },
-    {
-        "name": "Rugrat-yapping",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/rugrat-yapping.mp3"
-    },
-    {
-        "name": "Som do Zap Zap estourado",
-        "color": "rgb(3, 250, 63)",
-        "mp3": "/media/sounds/som-do-zap-zap-estourado.mp3"
-    },
-    {
-        "name": "Mina Mexicana™ Fart",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mina-mexicanatm-fart.mp3"
     },
     {
         "name": "Fnaf Freddy’s laugh",
@@ -6893,11 +5088,6 @@ export const sounds =
         "mp3": "/media/sounds/neg-portal2buzzer_2DIuFda.mp3"
     },
     {
-        "name": "fortnite pump shotgun",
-        "color": "rgb(81, 255, 41)",
-        "mp3": "/media/sounds/fortnite-pump-shotgun.mp3"
-    },
-    {
         "name": "Movie Fart!",
         "color": "rgb(15, 59, 3)",
         "mp3": "/media/sounds/fart-sound-effect_C1IXpeL.mp3"
@@ -6911,11 +5101,6 @@ export const sounds =
         "name": "Hello!!! Meme",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/hello-meme.mp3"
-    },
-    {
-        "name": "Ewww (Crowd Effect)",
-        "color": "rgb(248, 255, 49)",
-        "mp3": "/media/sounds/ewww.mp3"
     },
     {
         "name": "Harry potter flute",
@@ -6943,11 +5128,6 @@ export const sounds =
         "mp3": "/media/sounds/spiderman-meme-song-2-0.mp3"
     },
     {
-        "name": "transponder snail",
-        "color": "rgb(42, 84, 255)",
-        "mp3": "/media/sounds/transponder_snail.mp3"
-    },
-    {
         "name": "screaming emoji meme",
         "color": "rgb(255, 179, 44)",
         "mp3": "/media/sounds/screaming-emoji-meme.mp3"
@@ -6963,21 +5143,6 @@ export const sounds =
         "mp3": "/media/sounds/streets-rizz.mp3"
     },
     {
-        "name": "funny laugh sound",
-        "color": "rgb(126, 135, 255)",
-        "mp3": "/media/sounds/funny-laugh-sound-effect.mp3"
-    },
-    {
-        "name": "'What'meme",
-        "color": "rgb(112, 237, 205)",
-        "mp3": "/media/sounds/what_JOcN7Y8.mp3"
-    },
-    {
-        "name": "Minecraft Totem Sound",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/minecraft-totem-sound.mp3"
-    },
-    {
         "name": "cartoon snoring sound effect",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/cartoon-snoring-sound-effect.mp3"
@@ -6986,11 +5151,6 @@ export const sounds =
         "name": "Danger Siren Alarm",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/danger-siren-alarm_BfknMds.mp3"
-    },
-    {
-        "name": "Uncle Ruckus Got the rope",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/uncle-ruckus-i-got-the-rope_eH5EBBM.mp3"
     },
     {
         "name": "Coryxkenshin \"Yeager\" slap sound effect",
@@ -7018,11 +5178,6 @@ export const sounds =
         "mp3": "/media/sounds/fish-meme-sfx.mp3"
     },
     {
-        "name": "family guy transition",
-        "color": "rgb(255, 133, 237)",
-        "mp3": "/media/sounds/family-guy-transition.mp3"
-    },
-    {
         "name": "Ganda Mo Intro",
         "color": "rgb(0, 0, 0)",
         "mp3": "/media/sounds/ganda_mo_intro-mp3cut.mp3"
@@ -7033,49 +5188,14 @@ export const sounds =
         "mp3": "/media/sounds/arc-raiders-probe.mp3"
     },
     {
-        "name": "mommy asmr",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mommy-asmr.mp3"
-    },
-    {
-        "name": "P*rn hub intro extreme loud ()çok yüksek ses",
-        "color": "rgb(255, 144, 0)",
-        "mp3": "/media/sounds/p-rn-hub-intro-extreme-loud-cok-yuksek-ses.mp3"
-    },
-    {
-        "name": "packgod 2",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/packgod-2.mp3"
-    },
-    {
         "name": "you phone lingin",
         "color": "rgb(255, 159, 41)",
         "mp3": "/media/sounds/you-phone-lingin.mp3"
     },
     {
-        "name": "Welcome Home from Jarvis",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/welcome-home-from-jarvis.mp3"
-    },
-    {
         "name": "Kids Cheering YAY",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/kids-cheering-sound-effect.mp3"
-    },
-    {
-        "name": "spongebob Hi How Are Ya?",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/spongebob-hi-how-are-ya-.mp3"
-    },
-    {
-        "name": "Drake embarrassing",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/drake-embarrassing_Ts9wkE9.mp3"
-    },
-    {
-        "name": "scooby doo laugh sped up",
-        "color": "rgb(148, 71, 26)",
-        "mp3": "/media/sounds/scooby-doo-laugh-sped-up.mp3"
     },
     {
         "name": "TF2 Scout Metal Bat",
@@ -7103,21 +5223,6 @@ export const sounds =
         "mp3": "/media/sounds/eye-of-rah-sound-effect.mp3"
     },
     {
-        "name": "troll face laugh meme oh no no no",
-        "color": "rgb(68, 255, 162)",
-        "mp3": "/media/sounds/oh-no-no-no-no-laugh_sejx5Bk.mp3"
-    },
-    {
-        "name": "Sad Hamster",
-        "color": "rgb(15, 80, 206)",
-        "mp3": "/media/sounds/sad-hamster.mp3"
-    },
-    {
-        "name": "YEAHOO",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/yeahoo.mp3"
-    },
-    {
         "name": "Wega Jumpscare",
         "color": "rgb(103, 1, 161)",
         "mp3": "/media/sounds/wega-jumpscare.mp3"
@@ -7133,11 +5238,6 @@ export const sounds =
         "mp3": "/media/sounds/regular-show-intro_GiLyViP.mp3"
     },
     {
-        "name": "ring doorbell",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/ring-doorbell-sound.mp3"
-    },
-    {
         "name": "Sad Musicccccc",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/sad-music.mp3"
@@ -7148,21 +5248,6 @@ export const sounds =
         "mp3": "/media/sounds/are-you-serious-right-neow-bro.mp3"
     },
     {
-        "name": "Godzilla Roar 2",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/godzilla_2.mp3"
-    },
-    {
-        "name": "screaming emoji meme",
-        "color": "rgb(255, 179, 44)",
-        "mp3": "/media/sounds/screaming-emoji-meme.mp3"
-    },
-    {
-        "name": "E o pix? Nada ainda?",
-        "color": "rgb(243, 255, 79)",
-        "mp3": "/media/sounds/e-o-pix-nada-ainda.mp3"
-    },
-    {
         "name": "Soda Pop - Kpop Demon Hunters - Saja Boys",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/soda-pop-kpop-demon-hunters-saja-boys-mp3.mp3"
@@ -7171,16 +5256,6 @@ export const sounds =
         "name": "botao do whatsapp",
         "color": "rgb(28, 255, 0)",
         "mp3": "/media/sounds/botao-do-whatsapp.mp3"
-    },
-    {
-        "name": "Invisible - Duran",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/invisible-duran.mp3"
-    },
-    {
-        "name": "TheBurntPeanut Lets ride",
-        "color": "rgb(194, 146, 50)",
-        "mp3": "/media/sounds/theburntpeanut-lets-ride.mp3"
     },
     {
         "name": "Awwwwwwwwww",
@@ -7228,11 +5303,6 @@ export const sounds =
         "mp3": "/media/sounds/sneaky-golem.mp3"
     },
     {
-        "name": "Kai Cenat Suspense",
-        "color": "rgb(76, 61, 77)",
-        "mp3": "/media/sounds/kai-cenat-suspense.mp3"
-    },
-    {
         "name": "Screaming Bird",
         "color": "rgb(158, 166, 153)",
         "mp3": "/media/sounds/screaming-bird.mp3"
@@ -7263,21 +5333,6 @@ export const sounds =
         "mp3": "/media/sounds/style-points_TW2LQSU.mp3"
     },
     {
-        "name": "dokkaebi hack",
-        "color": "rgb(55, 55, 55)",
-        "mp3": "/media/sounds/dokkaebi-hacking-sound-effect.mp3"
-    },
-    {
-        "name": "We are Charlie Kirkkkkkk",
-        "color": "rgb(229, 255, 0)",
-        "mp3": "/media/sounds/we-are-charlie-kirkkkkkk.mp3"
-    },
-    {
-        "name": "Allah akbar sound",
-        "color": "rgb(62, 73, 255)",
-        "mp3": "/media/sounds/allah-akbar-sound.mp3"
-    },
-    {
         "name": "can someone grab bomb",
         "color": "rgb(224, 150, 255)",
         "mp3": "/media/sounds/can-someone-grab-bomb.mp3"
@@ -7296,21 +5351,6 @@ export const sounds =
         "name": "YO PHONE IS RINGING",
         "color": "rgb(105, 74, 255)",
         "mp3": "/media/sounds/yo-phone-is-ringing.mp3"
-    },
-    {
-        "name": "Kim Jong Un (brainrot)",
-        "color": "rgb(43, 35, 68)",
-        "mp3": "/media/sounds/kim-jong-un-brainrot.mp3"
-    },
-    {
-        "name": "Allahu akbaar",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/allahu-akbaar.mp3"
-    },
-    {
-        "name": "zizi fesse",
-        "color": "rgb(163, 129, 255)",
-        "mp3": "/media/sounds/zizi-fesse.mp3"
     },
     {
         "name": "Воздушная сирена",
@@ -7358,26 +5398,6 @@ export const sounds =
         "mp3": "/media/sounds/gokuyelling.mp3"
     },
     {
-        "name": "Vine - Dramatic Boom Sound Eff",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/vine-dramatic-boom-sound-effect.mp3"
-    },
-    {
-        "name": "Sad violin (14sec)",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/export_4.mp3"
-    },
-    {
-        "name": "Tobu - Candyland",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/candyland-cat-meme.mp3"
-    },
-    {
-        "name": "Eye Of Rah sound effect",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/eye-of-rah-sound-effect.mp3"
-    },
-    {
         "name": "Freebird",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/freebird.mp3"
@@ -7396,11 +5416,6 @@ export const sounds =
         "name": "Domer - The Simpsons",
         "color": "rgb(255, 219, 73)",
         "mp3": "/media/sounds/domer-the-simpsons.mp3"
-    },
-    {
-        "name": "Tmkc Mahavirwa wala",
-        "color": "rgb(255, 40, 0)",
-        "mp3": "/media/sounds/tmkc-mahavirwa-wala.mp3"
     },
     {
         "name": "Bom dia magnata",
@@ -7426,16 +5441,6 @@ export const sounds =
         "name": "Birdmaster86",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/birdmaster86.mp3"
-    },
-    {
-        "name": "Да ты че",
-        "color": "rgb(211, 255, 141)",
-        "mp3": "/media/sounds/da-ty-che.mp3"
-    },
-    {
-        "name": "yamede kudasai",
-        "color": "rgb(49, 255, 127)",
-        "mp3": "/media/sounds/yamede-kudasai.mp3"
     },
     {
         "name": "Jhinka chika jhinka chika",
@@ -7528,11 +5533,6 @@ export const sounds =
         "mp3": "/media/sounds/fbi-open-up-explosion.mp3"
     },
     {
-        "name": "Splat Sound",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/splat-sound-effect-free-download.mp3"
-    },
-    {
         "name": "Windows 3.1 startup (tada)",
         "color": "rgb(51, 255, 0)",
         "mp3": "/media/sounds/win31.mp3"
@@ -7541,21 +5541,6 @@ export const sounds =
         "name": "Hello! Mine Turtle",
         "color": "rgb(0, 153, 255)",
         "mp3": "/media/sounds/hello-trailer_01.mp3"
-    },
-    {
-        "name": "Slendytubbies Tinky Winky",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/slendy1.mp3"
-    },
-    {
-        "name": "Homer Simpson - D'OH",
-        "color": "rgb(255, 255, 0)",
-        "mp3": "/media/sounds/doh_r4RZcVw.mp3"
-    },
-    {
-        "name": "Door Knocking SFX",
-        "color": "rgb(255, 222, 55)",
-        "mp3": "/media/sounds/door-knocking.mp3"
     },
     {
         "name": "Screech Car Crash",
@@ -7593,11 +5578,6 @@ export const sounds =
         "mp3": "/media/sounds/fnaf-hooray.mp3"
     },
     {
-        "name": "vsauce",
-        "color": "rgb(57, 255, 136)",
-        "mp3": "/media/sounds/jake-chudnow-edited_y1t8j5q.mp3"
-    },
-    {
         "name": "cry banana cat",
         "color": "rgb(255, 207, 76)",
         "mp3": "/media/sounds/cry-banana-cat.mp3"
@@ -7606,11 +5586,6 @@ export const sounds =
         "name": "piano dross",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/y2mate_Ajp9shj.mp3"
-    },
-    {
-        "name": "Yowai Mo (Gojo)",
-        "color": "rgb(0, 28, 255)",
-        "mp3": "/media/sounds/yowai-mo-gojo_EIhp35V.mp3"
     },
     {
         "name": "Cartoon tip toe",
@@ -7643,26 +5618,6 @@ export const sounds =
         "mp3": "/media/sounds/phonk-tun-tun.mp3"
     },
     {
-        "name": "goopa gotta goop",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/goopa-gotta-goop.mp3"
-    },
-    {
-        "name": "Baby launghing bass boosted",
-        "color": "rgb(160, 249, 255)",
-        "mp3": "/media/sounds/baby-launghing-bass-boosted.mp3"
-    },
-    {
-        "name": "teto.wav",
-        "color": "rgb(255, 41, 84)",
-        "mp3": "/media/sounds/teto-wav.mp3"
-    },
-    {
-        "name": "Airbus Stall",
-        "color": "rgb(9, 111, 255)",
-        "mp3": "/media/sounds/airbus-stall.mp3"
-    },
-    {
         "name": "ЫЫЫ Стандоф 2 говно",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/yyy-standof-2-govno.mp3"
@@ -7681,11 +5636,6 @@ export const sounds =
         "name": "Широкий путин",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/shirokii-putin.mp3"
-    },
-    {
-        "name": "Burnt Peanut Little Bit of Goop",
-        "color": "rgb(255, 2, 230)",
-        "mp3": "/media/sounds/burnt-peanut-little-bit-of-goop.mp3"
     },
     {
         "name": "Ahooga Sound In Many Cartoons",
@@ -7713,11 +5663,6 @@ export const sounds =
         "mp3": "/media/sounds/lego-star-wars-transition-sound.mp3"
     },
     {
-        "name": "Counter Strike - Bomb Has Been Planted !",
-        "color": "rgb(255, 117, 48)",
-        "mp3": "/media/sounds/bomb-has-been-planted-sound-effect-csgo.mp3"
-    },
-    {
         "name": "sans voice",
         "color": "rgb(0, 255, 255)",
         "mp3": "/media/sounds/voice_sans.mp3"
@@ -7726,21 +5671,6 @@ export const sounds =
         "name": "bass boost",
         "color": "rgb(102, 0, 51)",
         "mp3": "/media/sounds/bass-boost.mp3"
-    },
-    {
-        "name": "Goku Yelling",
-        "color": "rgb(255, 102, 0)",
-        "mp3": "/media/sounds/gokuyelling.mp3"
-    },
-    {
-        "name": "Speedrun music",
-        "color": "rgb(56, 255, 34)",
-        "mp3": "/media/sounds/dreamrunning_trim-1.mp3"
-    },
-    {
-        "name": "Siren head",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/siren-head-sounds-new.mp3"
     },
     {
         "name": "Snake death scream",
@@ -7753,24 +5683,9 @@ export const sounds =
         "mp3": "/media/sounds/ps2_start_up.mp3"
     },
     {
-        "name": "FBI open UP. (with explosion)",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/fbi-open-up-explosion.mp3"
-    },
-    {
         "name": "what the hell is even that",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/whatthehell_qrePvEr.mp3"
-    },
-    {
-        "name": "Splat Sound",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/splat-sound-effect-free-download.mp3"
-    },
-    {
-        "name": "Slendytubbies Tinky Winky",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/slendy1.mp3"
     },
     {
         "name": "flightreacts screaming",
@@ -7791,16 +5706,6 @@ export const sounds =
         "name": "Pitbull Fireball HD",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/a1-0001_pitbull-fireball-edited00086400-online-audio-converter.mp3"
-    },
-    {
-        "name": "Risadinha de ladrão",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sabe-porque-as-meninas-dao-maior-valor-na-risada-de-ladrao-mp3cut.mp3"
-    },
-    {
-        "name": "OKAY LETS  GO",
-        "color": "rgb(203, 52, 255)",
-        "mp3": "/media/sounds/okay-lets-go_buBmJye.mp3"
     },
     {
         "name": "Target Acquired Meme",
@@ -7828,11 +5733,6 @@ export const sounds =
         "mp3": "/media/sounds/its-pikachu-short.mp3"
     },
     {
-        "name": "jet set radio spray 2",
-        "color": "rgb(221, 255, 0)",
-        "mp3": "/media/sounds/jet-set-radio-spray-2_pITyzB4.mp3"
-    },
-    {
         "name": "aye bruh you got a phone call",
         "color": "rgb(113, 73, 3)",
         "mp3": "/media/sounds/aye-bruh-you-got-a-phone-call.mp3"
@@ -7858,49 +5758,9 @@ export const sounds =
         "mp3": "/media/sounds/kira_s-laugh-death-note-ringtone-by-death-note_light-kira.mp3"
     },
     {
-        "name": "Esdeekid \"Okay\"",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/esdeekid-okay.mp3"
-    },
-    {
         "name": "wtf is kilometer",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/wtf-is-kilometer.mp3"
-    },
-    {
-        "name": "Grappige Djern",
-        "color": "rgb(153, 0, 0)",
-        "mp3": "/media/sounds/whatsapp-audio-2016-09-16-at-23.mp3"
-    },
-    {
-        "name": "TUN TUN FORRÓ",
-        "color": "rgb(255, 37, 84)",
-        "mp3": "/media/sounds/tun-tun-forro.mp3"
-    },
-    {
-        "name": "yamede kudasai",
-        "color": "rgb(49, 255, 127)",
-        "mp3": "/media/sounds/yamede-kudasai.mp3"
-    },
-    {
-        "name": "Wrong Answer",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/wrong-answer-sound-fx.mp3"
-    },
-    {
-        "name": "Rugrat-yapping",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/rugrat-yapping.mp3"
-    },
-    {
-        "name": "Стон 250",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/ston-250.mp3"
-    },
-    {
-        "name": "stupid-jew-eric-cartman",
-        "color": "rgb(34, 2, 2)",
-        "mp3": "/media/sounds/stupid-jew-eric-cartman_SwhcQNS.mp3"
     },
     {
         "name": "Baby boo Phonk",
@@ -7908,19 +5768,9 @@ export const sounds =
         "mp3": "/media/sounds/baby-boo-phonk.mp3"
     },
     {
-        "name": "Cat Lizard",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/cat-lizard.mp3"
-    },
-    {
         "name": "New Follower - @Aymplify",
         "color": "rgb(0, 0, 0)",
         "mp3": "/media/sounds/newf.mp3"
-    },
-    {
-        "name": "Баба Чай",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/baba-chai.mp3"
     },
     {
         "name": "doutor nefario fica de quatro e rebola",
@@ -7936,21 +5786,6 @@ export const sounds =
         "name": "Dancehall Horn",
         "color": "rgb(51, 0, 255)",
         "mp3": "/media/sounds/air-horn-club-sample.mp3"
-    },
-    {
-        "name": "Сливыыы мелстрой",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/slivyyy-melstroi.mp3"
-    },
-    {
-        "name": "kim jong un is the master of goon",
-        "color": "rgb(255, 231, 4)",
-        "mp3": "/media/sounds/kim-jong-un-is-the-master-of-goon.mp3"
-    },
-    {
-        "name": "stupid ni-",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/stupid-ni_fP74ILk.mp3"
     },
     {
         "name": "буба матерится",
@@ -7993,19 +5828,9 @@ export const sounds =
         "mp3": "/media/sounds/erm-what-the-sigma_su7GnzC.mp3"
     },
     {
-        "name": "Bongo Feet",
-        "color": "rgb(51, 0, 153)",
-        "mp3": "/media/sounds/bongo-feet.mp3"
-    },
-    {
         "name": "Victory Screech - Spongebob",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/victoryscreech.mp3"
-    },
-    {
-        "name": "Fail Horn",
-        "color": "rgb(102, 255, 51)",
-        "mp3": "/media/sounds/thepriceisright-loserhorns.mp3"
     },
     {
         "name": "Bass Distortion / Dab Sound",
@@ -8026,11 +5851,6 @@ export const sounds =
         "name": "CELEBRATION",
         "color": "rgb(153, 0, 0)",
         "mp3": "/media/sounds/celebration.mp3"
-    },
-    {
-        "name": "Siren head",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/siren-head-sounds-new.mp3"
     },
     {
         "name": "Talkingg Benn Laughh",
@@ -8058,11 +5878,6 @@ export const sounds =
         "mp3": "/media/sounds/flightreacts-dolphin-laugh_fW4DqCL.mp3"
     },
     {
-        "name": "scooby doo laugh sped up",
-        "color": "rgb(148, 71, 26)",
-        "mp3": "/media/sounds/scooby-doo-laugh-sped-up.mp3"
-    },
-    {
         "name": "sonic spring",
         "color": "rgb(255, 255, 0)",
         "mp3": "/media/sounds/sonic-spring.mp3"
@@ -8076,11 +5891,6 @@ export const sounds =
         "name": "Minecraft skeleton",
         "color": "rgb(255, 255, 255)",
         "mp3": "/media/sounds/skeleton-sounds-2.mp3"
-    },
-    {
-        "name": "Tokyo Drift Alert",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/untitled_zd2ts4l-audiotrimmer.mp3"
     },
     {
         "name": "Suspense strike",
@@ -8113,16 +5923,6 @@ export const sounds =
         "mp3": "/media/sounds/ralsei-splat.mp3"
     },
     {
-        "name": "Welcome Home from Jarvis",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/welcome-home-from-jarvis.mp3"
-    },
-    {
-        "name": "Kids Cheering YAY",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/kids-cheering-sound-effect.mp3"
-    },
-    {
         "name": "It's Britney B*TCH!",
         "color": "rgb(153, 0, 204)",
         "mp3": "/media/sounds/itsbritney.mp3"
@@ -8133,49 +5933,14 @@ export const sounds =
         "mp3": "/media/sounds/ha-got-eeem.mp3"
     },
     {
-        "name": "Thick of it",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/thick-of-it.mp3"
-    },
-    {
-        "name": "Goku Yelling",
-        "color": "rgb(255, 102, 0)",
-        "mp3": "/media/sounds/gokuyelling.mp3"
-    },
-    {
-        "name": "Nokia Arabic Ringstone",
-        "color": "rgb(144, 251, 255)",
-        "mp3": "/media/sounds/nokia-ringtone-arabic.mp3"
-    },
-    {
-        "name": "Siren head",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/siren-head-sounds-new.mp3"
-    },
-    {
         "name": "booing",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/booing.mp3"
     },
     {
-        "name": "NARUTO BATTLE",
-        "color": "rgb(255, 156, 53)",
-        "mp3": "/media/sounds/naruto-the-raising-fighting-spirit-extended-audiotrimmer_7wvXRts.mp3"
-    },
-    {
-        "name": "Woo, Yeah Baby!",
-        "color": "rgb(255, 0, 238)",
-        "mp3": "/media/sounds/moistcr1tikal-woooh-yeah-baby-meme-360p.mp3"
-    },
-    {
         "name": "can i pet that dog",
         "color": "rgb(73, 255, 79)",
         "mp3": "/media/sounds/can-i-pet-dat-dog-mp3.mp3"
-    },
-    {
-        "name": "Xue Hua piao piao bei feng Xiao xiao",
-        "color": "rgb(255, 44, 44)",
-        "mp3": "/media/sounds/xue-hua-piao-piao.mp3"
     },
     {
         "name": "COD Zombies Evil Laugh",
@@ -8198,49 +5963,14 @@ export const sounds =
         "mp3": "/media/sounds/m3.mp3"
     },
     {
-        "name": "RIGHT FOOT CREEP",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/right-foot-creep.mp3"
-    },
-    {
-        "name": "Mouse Click 1",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mouse-click_gt1reD8.mp3"
-    },
-    {
-        "name": "1_dog sniff",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/outro_2.mp3"
-    },
-    {
-        "name": "samsung notification 234223243",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/yt1s_nijLeKo.mp3"
-    },
-    {
         "name": "Free Bird Solo",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/free-bird-solo.mp3"
     },
     {
-        "name": "OHH SHIT",
-        "color": "rgb(4, 255, 231)",
-        "mp3": "/media/sounds/tourettes-guy-oh-shit.mp3"
-    },
-    {
         "name": "UGH EWW",
         "color": "rgb(151, 82, 255)",
         "mp3": "/media/sounds/ew-dude-wtf.mp3"
-    },
-    {
-        "name": "FNAF Hooray!!!!",
-        "color": "rgb(12, 255, 0)",
-        "mp3": "/media/sounds/fnaf-hooray.mp3"
-    },
-    {
-        "name": "E o pix? Nada ainda?",
-        "color": "rgb(243, 255, 79)",
-        "mp3": "/media/sounds/e-o-pix-nada-ainda.mp3"
     },
     {
         "name": "Super Mario World Coin",
@@ -8253,54 +5983,14 @@ export const sounds =
         "mp3": "/media/sounds/spongebob-bald.mp3"
     },
     {
-        "name": "Invisible - Duran",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/invisible-duran.mp3"
-    },
-    {
         "name": "Back to the Future - Tinkle",
         "color": "rgb(255, 236, 65)",
         "mp3": "/media/sounds/back-to-the-future-twinkle-ringtone_7oVbUv8.mp3"
     },
     {
-        "name": "piano dross",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/y2mate_Ajp9shj.mp3"
-    },
-    {
-        "name": "DO NOT REDEEM",
-        "color": "rgb(101, 26, 26)",
-        "mp3": "/media/sounds/do-not-redeem_z7RLKwV.mp3"
-    },
-    {
-        "name": "Helldivers Drop",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/helldivers-drop.mp3"
-    },
-    {
         "name": "slow motion slow to fast",
         "color": "rgb(255, 94, 212)",
         "mp3": "/media/sounds/slow-motion-slow-to-fast.mp3"
-    },
-    {
-        "name": "goopa gotta goop",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/goopa-gotta-goop.mp3"
-    },
-    {
-        "name": "sensor beep",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sensor-beep.mp3"
-    },
-    {
-        "name": "cartoon snoring sound effect",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/cartoon-snoring-sound-effect.mp3"
-    },
-    {
-        "name": "ayooooooo",
-        "color": "rgb(66, 252, 255)",
-        "mp3": "/media/sounds/ayooooooo_R0QLGMG.mp3"
     },
     {
         "name": "Ghostly sound",
@@ -8311,16 +6001,6 @@ export const sounds =
         "name": "Dota - rampage",
         "color": "rgb(102, 0, 102)",
         "mp3": "/media/sounds/announcer_kill_rampage_01.mp3"
-    },
-    {
-        "name": "Coryxkenshin \"Yeager\" slap sound effect",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/coryxkenshin-yeager-slap-sound-effect.mp3"
-    },
-    {
-        "name": "Fish meme sfx",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/fish-meme-sfx.mp3"
     },
     {
         "name": "Do You Have Any Ibuprofen",
@@ -8343,16 +6023,6 @@ export const sounds =
         "mp3": "/media/sounds/produce-online-audio-converter.mp3"
     },
     {
-        "name": "Ganda Mo Intro",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/ganda_mo_intro-mp3cut.mp3"
-    },
-    {
-        "name": "Arc Raiders Probe",
-        "color": "rgb(92, 92, 92)",
-        "mp3": "/media/sounds/arc-raiders-probe.mp3"
-    },
-    {
         "name": "INDIAN SONG LONG",
         "color": "rgb(255, 166, 0)",
         "mp3": "/media/sounds/indian-song-long.mp3"
@@ -8366,11 +6036,6 @@ export const sounds =
         "name": "Tecnologia Meme",
         "color": "rgb(255, 255, 255)",
         "mp3": "/media/sounds/tecnologia-meme.mp3"
-    },
-    {
-        "name": "we are charlie kirk funk (slowed+reverb)",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/we-are-charlie-kirk-funk-slowed-reverb.mp3"
     },
     {
         "name": "Abe Sale",
@@ -8428,11 +6093,6 @@ export const sounds =
         "mp3": "/media/sounds/baby-boo-nursery.mp3"
     },
     {
-        "name": "Tyrannosaurus rex Roar 2",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/tyrannosaurus-rex-roar-2.mp3"
-    },
-    {
         "name": "Меня снайпнули в полёте",
         "color": "rgb(32, 56, 134)",
         "mp3": "/media/sounds/menia-snaipnuli-v-poliote.mp3"
@@ -8441,11 +6101,6 @@ export const sounds =
         "name": "Paldooooooo",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/paldooooooo.mp3"
-    },
-    {
-        "name": "Charlie Kurk funk",
-        "color": "rgb(111, 227, 255)",
-        "mp3": "/media/sounds/charlie-kurk-funk.mp3"
     },
     {
         "name": "Mama ooooh",
@@ -8458,19 +6113,9 @@ export const sounds =
         "mp3": "/media/sounds/doakes-meme-song.mp3"
     },
     {
-        "name": "erm what the sigma",
-        "color": "rgb(117, 187, 255)",
-        "mp3": "/media/sounds/erm-what-the-sigma_su7GnzC.mp3"
-    },
-    {
         "name": "Chewbacca",
         "color": "rgb(102, 51, 0)",
         "mp3": "/media/sounds/chewbacca.swf.mp3"
-    },
-    {
-        "name": "Bongo Feet",
-        "color": "rgb(51, 0, 153)",
-        "mp3": "/media/sounds/bongo-feet.mp3"
     },
     {
         "name": "desk slamming",
@@ -8493,24 +6138,9 @@ export const sounds =
         "mp3": "/media/sounds/moshchnii-otrizhka.mp3"
     },
     {
-        "name": "Dancehall Horn",
-        "color": "rgb(51, 0, 255)",
-        "mp3": "/media/sounds/air-horn-club-sample.mp3"
-    },
-    {
-        "name": "Сливыыы мелстрой",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/slivyyy-melstroi.mp3"
-    },
-    {
         "name": "ESPN Update",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/the-espn-sound.mp3"
-    },
-    {
-        "name": "stupid ni-",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/stupid-ni_fP74ILk.mp3"
     },
     {
         "name": "Why is everyone so f***ing stupid?",
@@ -8523,39 +6153,9 @@ export const sounds =
         "mp3": "/media/sounds/jokowi-dulu-saya-diam.mp3"
     },
     {
-        "name": "PEGUE NA MINHA POMBAAAAAAAAAAAA ESTOURADO",
-        "color": "rgb(57, 230, 190)",
-        "mp3": "/media/sounds/pegue-na-minha-pombaaaaaaaaaaaa-estourado.mp3"
-    },
-    {
-        "name": "Benny Hill Chase",
-        "color": "rgb(155, 165, 255)",
-        "mp3": "/media/sounds/benny-hill-chase_PewVC8I.mp3"
-    },
-    {
         "name": "Tarantadoooo",
         "color": "rgb(255, 251, 5)",
         "mp3": "/media/sounds/tarantadoooo.mp3"
-    },
-    {
-        "name": "Баба Чай",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/baba-chai.mp3"
-    },
-    {
-        "name": "arthur ruins everything crying",
-        "color": "rgb(243, 255, 12)",
-        "mp3": "/media/sounds/arthur-ruins-everything-crying.mp3"
-    },
-    {
-        "name": "Sirene alarme bom para acordar",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/sirene-alarme-bom-para-acordar.mp3"
-    },
-    {
-        "name": "illuminati Confirmed",
-        "color": "rgb(0, 153, 0)",
-        "mp3": "/media/sounds/x-files-theme-song-copy.mp3"
     },
     {
         "name": "Victory!",
@@ -8563,114 +6163,24 @@ export const sounds =
         "mp3": "/media/sounds/victoryff.swf.mp3"
     },
     {
-        "name": "Fail Horn",
-        "color": "rgb(102, 255, 51)",
-        "mp3": "/media/sounds/thepriceisright-loserhorns.mp3"
-    },
-    {
-        "name": "i believe i can fly",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/untitled2.mp3"
-    },
-    {
-        "name": "bomboclat",
-        "color": "rgb(88, 255, 14)",
-        "mp3": "/media/sounds/bomboclat.mp3"
-    },
-    {
-        "name": "CELEBRATION",
-        "color": "rgb(153, 0, 0)",
-        "mp3": "/media/sounds/celebration.mp3"
-    },
-    {
-        "name": "Talkingg Benn Laughh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/talkingg-benn-laughh.mp3"
-    },
-    {
         "name": "SPONGEBOB ONE HOUR LATER",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/one-hour-later-spongebob-time-card-96.mp3"
     },
     {
-        "name": "Lebron James Kid",
-        "color": "rgb(0, 255, 153)",
-        "mp3": "/media/sounds/lebron-james.mp3"
-    },
-    {
-        "name": "Chris Smoove Splash",
-        "color": "rgb(0, 51, 255)",
-        "mp3": "/media/sounds/chris_smoove_autotune_splash_6qks4-viduu_hi.mp3"
-    },
-    {
-        "name": "Flight reacts laugh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/flightreacts-dolphin-laugh_fW4DqCL.mp3"
-    },
-    {
         "name": "Police radio beep",
         "color": "rgb(91, 0, 0)",
         "mp3": "/media/sounds/police-beep.mp3"
-    },
-    {
-        "name": "scooby doo laugh sped up",
-        "color": "rgb(148, 71, 26)",
-        "mp3": "/media/sounds/scooby-doo-laugh-sped-up.mp3"
-    },
-    {
-        "name": "Minecraft skeleton",
-        "color": "rgb(255, 255, 255)",
-        "mp3": "/media/sounds/skeleton-sounds-2.mp3"
     },
     {
         "name": "Dodgeball Hit",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/dodgeball.mp3"
-    },
-    {
-        "name": "Tokyo Drift Alert",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/untitled_zd2ts4l-audiotrimmer.mp3"
-    },
-    {
-        "name": "Aye Yo WTF",
-        "color": "rgb(4, 255, 96)",
-        "mp3": "/media/sounds/aye-yo.mp3"
-    },
-    {
-        "name": "Whisper Song",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/barney-the-whisper-song.mp3"
-    },
-    {
-        "name": "sonic jump",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/jump.mp3"
-    },
-    {
-        "name": "Ralsei Splat",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/ralsei-splat.mp3"
-    },
-    {
-        "name": "Police radio beep",
-        "color": "rgb(91, 0, 0)",
-        "mp3": "/media/sounds/police-beep.mp3"
     },
     {
         "name": "æ meme",
         "color": "rgb(182, 0, 0)",
         "mp3": "/media/sounds/ae-meme.mp3"
-    },
-    {
-        "name": "Dodgeball Hit",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/dodgeball.mp3"
-    },
-    {
-        "name": "FNAF Balloon Boy Laugh",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/echo4b.mp3"
     },
     {
         "name": "Nice shot! Wii Sports",
@@ -8686,16 +6196,6 @@ export const sounds =
         "name": "Legend of Zelda - Rupee",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/rupee-collect.mp3"
-    },
-    {
-        "name": "Doorbell",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/door-bell-sound-effect.mp3"
-    },
-    {
-        "name": "Mouse Click 1",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mouse-click_gt1reD8.mp3"
     },
     {
         "name": "skedaddle",
@@ -8723,16 +6223,6 @@ export const sounds =
         "mp3": "/media/sounds/family-feud-strike-sfx_kN6Z99k.mp3"
     },
     {
-        "name": "Are you serious right neow bro",
-        "color": "rgb(138, 61, 61)",
-        "mp3": "/media/sounds/are-you-serious-right-neow-bro.mp3"
-    },
-    {
-        "name": "Discord Calling",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/discord-call-sound_tvxg95l.mp3"
-    },
-    {
         "name": "Kid Screaming Meme meme",
         "color": "rgb(255, 100, 254)",
         "mp3": "/media/sounds/kid-screaming-meme-meme.mp3"
@@ -8741,11 +6231,6 @@ export const sounds =
         "name": "goofy ahh laugh meme",
         "color": "rgb(240, 255, 0)",
         "mp3": "/media/sounds/goofy-ahh-laugh-meme.mp3"
-    },
-    {
-        "name": "Crying Black Dude MEME",
-        "color": "rgb(62, 255, 201)",
-        "mp3": "/media/sounds/crying-black-dude-meme.mp3"
     },
     {
         "name": "\"Ah\" Cute Anime Voice Sound Effect",
@@ -8761,11 +6246,6 @@ export const sounds =
         "name": "Arkh",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/arkh.mp3"
-    },
-    {
-        "name": "Super Mario World Coin",
-        "color": "rgb(255, 247, 0)",
-        "mp3": "/media/sounds/mario-coin-sound-effect.mp3"
     },
     {
         "name": "bongo hit",
@@ -8858,11 +6338,6 @@ export const sounds =
         "mp3": "/media/sounds/ussr.mp3"
     },
     {
-        "name": "Ba't nilalabas mo tite mo",
-        "color": "rgb(70, 57, 170)",
-        "mp3": "/media/sounds/bat-nilalabas-mo-tite-mo.mp3"
-    },
-    {
         "name": "Thank you seller",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/z40-thank-you-mp3.mp3"
@@ -8898,11 +6373,6 @@ export const sounds =
         "mp3": "/media/sounds/como-dijo-vladimir.mp3"
     },
     {
-        "name": "Tyrannosaurus rex Roar 2",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/tyrannosaurus-rex-roar-2.mp3"
-    },
-    {
         "name": "trabalha nego",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/trabalha-nego_NZpQoJ9.mp3"
@@ -8928,24 +6398,9 @@ export const sounds =
         "mp3": "/media/sounds/ninja-your-trash-kid.mp3"
     },
     {
-        "name": "Bhosdike madarchod been k loray - roadies",
-        "color": "rgb(255, 210, 243)",
-        "mp3": "/media/sounds/bhosdike-madarchod-been-k-loray-roadies.mp3"
-    },
-    {
-        "name": "Jew jew jew jew jew jew jew jew",
-        "color": "rgb(0, 77, 255)",
-        "mp3": "/media/sounds/jew-jew-jew-jew-jew-jew-jew-jew.mp3"
-    },
-    {
         "name": "Richard Watterson - Laughing",
         "color": "rgb(255, 161, 202)",
         "mp3": "/media/sounds/richard-watterson-laughing_CwvHwq6.mp3"
-    },
-    {
-        "name": "It's Britney B*TCH!",
-        "color": "rgb(153, 0, 204)",
-        "mp3": "/media/sounds/itsbritney.mp3"
     },
     {
         "name": "Ric Flair Wooo",
@@ -8963,29 +6418,9 @@ export const sounds =
         "mp3": "/media/sounds/jumpscare-sound-fnaf-4.mp3"
     },
     {
-        "name": "Mina Mexicana™ Fart",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/mina-mexicanatm-fart.mp3"
-    },
-    {
-        "name": "Chris Smoove Splash",
-        "color": "rgb(0, 51, 255)",
-        "mp3": "/media/sounds/chris_smoove_autotune_splash_6qks4-viduu_hi.mp3"
-    },
-    {
-        "name": "FNAF 3 Death Scream",
-        "color": "rgb(0, 0, 0)",
-        "mp3": "/media/sounds/five-nights-at-freddys-3-springtraps-jumpscare-brightened.mp3"
-    },
-    {
         "name": "Delivery - Lethal Company",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/delivery-lethal-company.mp3"
-    },
-    {
-        "name": "Tobu - Candyland",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/candyland-cat-meme.mp3"
     },
     {
         "name": "HOOYAH",
@@ -9001,11 +6436,6 @@ export const sounds =
         "name": "Crow Sound Caw",
         "color": "rgb(33, 41, 159)",
         "mp3": "/media/sounds/raven-caw-caw.mp3"
-    },
-    {
-        "name": "machine gun gunshot",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/y2mate_aRsvz4g.mp3"
     },
     {
         "name": "GET THIS SHIT OFF ME",
